@@ -1,47 +1,109 @@
 Table of contents
 =================
 
-<!--ts-->
-    * [Theory of Everything](#Theory-of-Everything)
-        * [What is a TOE](#what-is-a-TOE)
-        * [Quantum world and TOE - Weizmann institute 2019](#quantum-world-and-TOE-Weizmann-institute-2019)
-        * [Garrett Lisi TED 2008](#garrett-Lisi-TED-2008)
-        * [TOE in 3 easy steps – Forbes 2018](#tOE in 3 easy steps – Forbes 2018)
-        * [Emergence Theory](#emergence Theory)
-     * Theoretical Physics
-       - Big bounce (Big bang Heartbeat)
-       - Loop Quantum Gravity
-       - Physics beyond the standard model
-       - Athene’s TOE
-       - Quantum Gravity Research Emergence Theory (E8 Lattice)
-          - E8 Tetrahedral D248
-          - Quasi Crystal
-     * Physics
-        * Fermi labs
-        * Unsolved Problems in physics
-        * Particle physics
-        * Special Relativity
-        * Nuclear physics  
-        * Gravity
-        * Radioactive decay
-        * General Theory of Relativity (Standard model)
-           * Time-Space
-           * Dilation
-           * Event horizon
-           * Hilbert space
-     Quantum Theory
-        Quantum Physics
-        Quantum Mechanics
-        Quantum Thermodynamics
-        particles
-        Quantum Economics
-        Quantum Biology
-        
- <!--te-->
+* [Theory of Everything](Theory-of-everything) 
+    * What is a TOE(#what-is-a-TOE)
+     * Quantum world and TOE  Weizmann institute 2019 
+     * Garrett Lisi TED 2008
+     * TOE in 3 easy steps – Forbes 2018tOE in 3 easy steps – Forbes 2018
+     * Emergence Theoryemergence Theory
+* Theoretical Physics
+    * Big bounce Big bang Heartbeat
+    * Loop Quantum Gravity
+    * Physics beyond the standard model
+    * Athene’s TOE
+    * Quantum Gravity Research Emergence Theory E8 Lattice
+        * E8 Tetrahedral D248
+        * Quasi Crystal
+* Physics
+   * Fermi labs
+   * Unsolved Problems in physics
+   * Particle physics
+   * Special Relativity
+   * Nuclear physics  
+   * Gravity
+   * Radioactive decay
+   * General Theory of Relativity Standard model
+     * TimeSpace
+     * Dilation
+     * Event horizon
+     * Hilbert space
+* Quantum Theory
+   * Quantum Physics
+   * Quantum Mechanics
+   * Quantum Thermodynamics
+   * Particles
+   * Quantum Economics
+   * Quantum Biology
+* Math
+   * Geometry
+   * Golden ratio Fibonacci
+   * Complex numbers graph
+   * Irrational numbers
+   * Convergence
+* Chemistry
+	* Periodic table Elements
+   * Chemical reactions
+   * Crystal (structures / patterns)
+* Biology
+   * Astrobiology Theory 
+   * Tomonori Totani Tokyo University 00 - Is life a game of chance
+   * Daniel MAbrams TEDed -selection
+   * Eyes
+   * Nutrition
+   * Hormones
+   * Cells
+* Astronomy
+   * Observable Universe
+   * Edge of an infinite universe
+   * Black Hole Information paradox
+   * Blackhole Holographic Principle
+   * Google Sky
+   * Solar System
+* Anthropology
+   * Time
+   * Type I Civilization Humanity at 00 (Harnessing all of the Planet Energy)
+   * Type II Civilization (Harnessing all of the Star (Sun) Energy)
+   * Type III Civilization (Harnessing all of the Galaxy Energy)
+   * Type IV Civilization
+   * Type V Civilization
+* The Human Brain
+   * Human Brain Anatomy
+   * The Human Nervous system
+   * Dopamine
+   * Brain Dominance Theory
+   * Homeostasis
+   * Brain Waves EEG
+   * Emotions and Energy Waves
+   * Intelligence
+* Consciousness
+   * Philosophical ideas
+   * Mind-Body Problem
+   * Solipsism
+   * Optimistic Nihilism
+   * Sensual Perception
+   * Time perception
+* DNA Binaries
+   * Maya Mechanics
+   * Chinese l-Ching
+* Concentration & Focus
+   * Communications
+   * Language - Symbols
+   * Visual
+   * Mental
+   * Body language
+   * Microexpressions
+* Interactions
+   * Manifestation
+   * Inner Behavior
+* Based on the work of:
+   * John Forbes Nash 1928-2015 USA-Nash Equilibrium
+   * David Hilbert 1862-1943, Germany– Hilbert’s math problems
+   * Harry (Hillel) Furstenberg 1935 Germany, Israel -Infinitude of Primes
+   * Roger Wolcott Sperry 1913-1994 USA - functional specialization of the cerebral hemispheres
 
 
-
-==Theory of Everything==
+# Theory of Everything
 ===[http://rzwiki.synergize.co/index.php/What_is_a_TOE What is a TOE]===
 
 ===Quantum world and TOE - [http://rzwiki.synergize.co/index.php/What_is_a_TOE Weizmann institute 2019]===
