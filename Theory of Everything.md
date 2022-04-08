@@ -2,34 +2,34 @@ Table of contents
 =================
 
 <!--ts-->
-     * [Theory of Everything](#Theory-of-Everything)
-        *[What is a TOE](#what-is-a-TOE)
-        *[Quantum world and TOE - Weizmann institute 2019](#quantum-world-and-TOE-Weizmann-institute-2019)
-        *[Garrett Lisi TED 2008](#garrett-Lisi-TED-2008)
-        *[TOE in 3 easy steps – Forbes 2018](#tOE in 3 easy steps – Forbes 2018)
-        *[Emergence Theory](#emergence Theory)
+    * [Theory of Everything](#Theory-of-Everything)
+        * [What is a TOE](#what-is-a-TOE)
+        * [Quantum world and TOE - Weizmann institute 2019](#quantum-world-and-TOE-Weizmann-institute-2019)
+        * [Garrett Lisi TED 2008](#garrett-Lisi-TED-2008)
+        * [TOE in 3 easy steps – Forbes 2018](#tOE in 3 easy steps – Forbes 2018)
+        * [Emergence Theory](#emergence Theory)
      * Theoretical Physics
-        *Big bounce (Big bang Heartbeat)
-        *Loop Quantum Gravity
-        *Physics beyond the standard model
-        *Athene’s TOE
-        *Quantum Gravity Research Emergence Theory (E8 Lattice)
-           *E8 Tetrahedral D248
-           *Quasi Crystal
+       - Big bounce (Big bang Heartbeat)
+       - Loop Quantum Gravity
+       - Physics beyond the standard model
+       - Athene’s TOE
+       - Quantum Gravity Research Emergence Theory (E8 Lattice)
+          - E8 Tetrahedral D248
+          - Quasi Crystal
      * Physics
-        *Fermi labs
-        *Unsolved Problems in physics
-        *Particle physics
-        *Special Relativity
-        *Nuclear physics  
-        *Gravity
-        *Radioactive decay
-        *General Theory of Relativity (Standard model)
-           *Time-Space
-           *Dilation
-           *Event horizon
-           *Hilbert space
-     * Quantum Theory
+        * Fermi labs
+        * Unsolved Problems in physics
+        * Particle physics
+        * Special Relativity
+        * Nuclear physics  
+        * Gravity
+        * Radioactive decay
+        * General Theory of Relativity (Standard model)
+           * Time-Space
+           * Dilation
+           * Event horizon
+           * Hilbert space
+     Quantum Theory
         Quantum Physics
         Quantum Mechanics
         Quantum Thermodynamics
