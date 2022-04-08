@@ -1,0 +1,224 @@
+Docker & Docker-Compose & k8r CLI
+
+Install Docker on Linux:
+
+The Post-installation steps for Linux documentation reveals the following steps:
+
+1.	Create the Docker group.
+2.	sudo group add Docker.
+3.	Add the user to the Docker group.
+4.	sudo usermod -aG docker $(who am i)
+5.	Log out and log back in to ensure Docker runs with correct permissions.
+6.	Start Docker.
+
+$ sudo service Docker start # Ubuntu/Debian
+Note: Skip the $ character when copy and pasting.
+On RedHat/CentOS, run: sudo systemctl start Docker.
+To initialize the "base" filesystem, run:
+$ sudo service Docker stop
+$ sudo rm -rf /var/lib/Docker
+$ sudo service Docker start
+or manually like:
+$ sudo Docker -d --storage-opt dm.basesize=20G
+
+Install Docker-machine on Linux
+To install machine binaries on Linux:
+
+• Locally:
+• install -vm755 <(curl -L https://github.com/docker/machine/releases/download/v0.5.3/docker-machine_linux-amd64) $HOME/bin/Docker-machine
+• Global:
+sudo bash -c 'install -vm755 <(curl -L https://github.com/docker/machine/releases/d
+
+
+Docker CLI:
+
+Images:
+
+$ Docker pull [image]: latest
+$ Docker images (downloaded)
+$ Docker PS (running)
+
+Detach mode:
+
+$ Docker run -d (background) [Image]  -> run is Setup
+
+----------------------------------------------------------------------------------------------------------
+
+Containers:
+
+$ Docker ps -a (Running or Not)
+$ Docker start Container ID -> will run according to run Setup
+$ Docker stop Container ID
+   
+Two containers:
+
+First container:
+ports ->  $ Docker run -pXXXX:[YYYY] -->ontainerPort
+Docker ps -> Ports -> forwarding shown 
+
+Second container:
+Docker ps -a
+Docker run -d -pZZZZ:[YYYY]  - same Container Port
+
+Names
+Docker run -d -pXXXX:YYYY --name [STRING] [image: version]
+
+----------------------------------------------------------------------------------------------------------
+
+Debug:
+
+Logs
+Docker logs [Container ID]
+Docker logs [Container Name]
+
+Exec:
+-it = interactive terminal
+GO Inside container CLI ->>> Docker exec -it  [Container ID] /bin/bash <<-- if bash not work  try /bin/sh (one of them has to work)
+
+--> root@containerid/# 
+
+env  <-- get the status of the container / OS
+
+Clear <-- Clear screen
+
+Docker logs ContID | tail <-- Get the last lines from the logs
+
+----------------------------------------------------------------------------------------------------------
+
+Network:
+
+Docker network ls  <-- Get Network and ports
+
+create a new network -> docker network create [String]
+
+docker network ls -> see the networks
+
+docker run -pXXXX:XXXX -d [image]  -e evn_vars -e env_vars --name [String] --net [network name]
+
+docker run -d \
+> -p 8081:8081 \
+> -e Env_Var=value \
+> -e Env_var=value \
+> --net NAME \
+> -- name String \
+> -e Env_var=value \
+Final line > IMAGE_NAME String 
+
+----------------------------------------------------------------------------------------------------------
+
+Docker-Compose:
+
+A file with all the CLI commands of docker
+
+run command:
+docker run -pXXXX:XXXX -d [image]  -e evn_vars -e env_vars --name [String] --net [network name]
+
+VS Compose.yaml -> will create the network by itself (no need to define)
+
+Version:'int'
+
+Services: [--name param]
+
+   mongodb:       
+
+   image: [ContainerID/Name]
+
+   ports: - 27017:27017 [Host:Container]
+
+   environment:
+        - env_vars=vlaue
+
+   volumes:
+        - db-data:/var/lib/mysql/data    <-- Named Volume
+
+   mongo-express:
+
+   image:
+   ports:
+   environment
+   volumes:
+
+volumes:
+   db-data <-- Named Volume
+
+docker-compose -f [file name - STRING]  mongo.yaml up
+--->>>> creates a network and sync dependant containers loading sequence 
+
+ docker network ls
+-> display the name docker-compose gave the network created
+
+docker ps -> created also ports for host and container
+
+docker-compose down
+will also remove the network
+no data presistancy
+
+----------------------------------------------------------------------------------------------------------
+
+Docker File:
+
+--> Docker image from application - Blue Print for creating docker images
+
+Each image in Reposotory has its own dockerfile
+
+Structure of Dokerfile
+FROM [IMAGE_NAME] <---- Link from reposotory replaced Docker image pull
+ENV [Env_Vars]
+
+*** RUN [CLI commands inside] ---> Will run INSIDE the container NOT in the HOST (Multiple times)
+(Multiple times)
+          RUN mkdir -p /home/app  --->>>  creates a folder inside container 
+ 
+*** COPY [CLI commands Outside] ---> Will run HOST the Container 
+(Multiple times)
+
+          COPY  . /home/app --->>>  Copies from a folder in the HOST to Inside the Container
+
+*** CMD  ---> The command for Entry point ---->  Always indise the Docker File (Executes a Linux Command inside the Containder)
+(Single time)
+
+       CMD ["node","server.js"]
+
+Building an image from a Dockerfile
+
+Docker build -t my-app:Ver1.0  (STRING:STRING)  [Location of docker file] . <== currnet directory
+will pull the dependency images and create my new image
+
+>$ Docker images 
+Check with Docker imgaes 
+
+>$ Docker run my-app:Ver1.0
+   
+    ERROR : Cannot find module XXXX
+
+Delete an image
+
+>$ Docker rmi [ImageID]
+
+Requires --->> STOP and Delete a Container First
+
+>$ Docker ps  -a
+>$ Docker stop [ContainerID]
+>$ Docker rm [ContainerID]
+>$ Docker rmi [ImageID]
+>$ Docker images ->  see image deleted
+
+----------------------------------------------------------------------------------------------------------
+
+Volumes:
+
+$ Docker run -v /home/mount/data : /var/lib/mysql/data
+
+also can be passed without the host dir so docker handles the default host direcotry:
+$ Docker run -v /home/mount/data
+
+Named Volumes:
+
+Name of folder on host:
+$ Docker run -v name:/var/lib/mysql/data  <-- Sets the folder name on the Host Filesystem
+
+Default paths:
+
+Win -> c:\ProgramData\docker\volumes
+
+Linux -> /var/lib/docker/volumes
