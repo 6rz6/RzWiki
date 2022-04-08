@@ -1,130 +1,131 @@
 Table of contents
 =================
 
-* [Theory of Everything](Theory-of-everything) 
-    * What is a TOE(#what-is-a-TOE)
-     * Quantum world and TOE  Weizmann institute 2019 
-     * Garrett Lisi TED 2008
-     * TOE in 3 easy steps – Forbes 2018tOE in 3 easy steps – Forbes 2018
-     * Emergence Theoryemergence Theory
-* Theoretical Physics
-    * Big bounce Big bang Heartbeat
-    * Loop Quantum Gravity
-    * Physics beyond the standard model
-    * Athene’s TOE
-    * Quantum Gravity Research Emergence Theory E8 Lattice
-        * E8 Tetrahedral D248
-        * Quasi Crystal
-* Physics
-   * Fermi labs
-   * Unsolved Problems in physics
-   * Particle physics
-   * Special Relativity
-   * Nuclear physics  
-   * Gravity
-   * Radioactive decay
-   * General Theory of Relativity Standard model
-     * TimeSpace
-     * Dilation
-     * Event horizon
-     * Hilbert space
-* Quantum Theory
-   * Quantum Physics
-   * Quantum Mechanics
-   * Quantum Thermodynamics
-   * Particles
-   * Quantum Economics
-   * Quantum Biology
-* Math
-   * Geometry
-   * Golden ratio Fibonacci
-   * Complex numbers graph
-   * Irrational numbers
-   * Convergence
-* Chemistry
-	* Periodic table Elements
-   * Chemical reactions
-   * Crystal (structures / patterns)
-* Biology
-   * Astrobiology Theory 
-   * Tomonori Totani Tokyo University 00 - Is life a game of chance
-   * Daniel MAbrams TEDed -selection
-   * Eyes
-   * Nutrition
-   * Hormones
-   * Cells
-* Astronomy
-   * Observable Universe
-   * Edge of an infinite universe
-   * Black Hole Information paradox
-   * Blackhole Holographic Principle
-   * Google Sky
-   * Solar System
-* Anthropology
-   * Time
-   * Type I Civilization Humanity at 00 (Harnessing all of the Planet Energy)
-   * Type II Civilization (Harnessing all of the Star (Sun) Energy)
-   * Type III Civilization (Harnessing all of the Galaxy Energy)
-   * Type IV Civilization
-   * Type V Civilization
-* The Human Brain
-   * Human Brain Anatomy
-   * The Human Nervous system
-   * Dopamine
-   * Brain Dominance Theory
-   * Homeostasis
-   * Brain Waves EEG
-   * Emotions and Energy Waves
-   * Intelligence
-* Consciousness
-   * Philosophical ideas
-   * Mind-Body Problem
-   * Solipsism
-   * Optimistic Nihilism
-   * Sensual Perception
-   * Time perception
-* DNA Binaries
-   * Maya Mechanics
-   * Chinese l-Ching
-* Concentration & Focus
-   * Communications
-   * Language - Symbols
-   * Visual
-   * Mental
-   * Body language
-   * Microexpressions
-* Interactions
-   * Manifestation
-   * Inner Behavior
-* Based on the work of:
-   * John Forbes Nash 1928-2015 USA-Nash Equilibrium
-   * David Hilbert 1862-1943, Germany– Hilbert’s math problems
-   * Harry (Hillel) Furstenberg 1935 Germany, Israel -Infinitude of Primes
-   * Roger Wolcott Sperry 1913-1994 USA - functional specialization of the cerebral hemispheres
+* [Theory of Everything](Theory-of-Everything) 
+    * [What is a TOE](what-is-a-TOE)
+     * [Quantum world and TOE  Weizmann institute 2019](Quantum-world-and-TOE-Weizmann-institute-2019)
+     * [Garrett Lisi TED 2008](Garrett-Lisi-TED-2008)
+     * [TOE in 3 easy steps – Forbes 2018tOE in 3 easy steps – Forbes 2018](TOE-in-3-easy-steps–Forbes-2018tOE-in-3-easy-steps–Forbes-2018)
+     * [Emergence Theoryemergence Theory](Emergence-Theoryemergence-Theory)
+* [Theoretical Physics](Theoretical-Physics)
+    * [Big bounce Big bang Heartbeat](Big-bounce-Big-bang-Heartbeat)
+    * [Loop Quantum Gravity](Loop-Quantum-Gravity)
+    * [Physics beyond the standard model](Physics-beyond-the-standard-model)
+    * [Athene’s TOE](Athene’s-TOE)
+    * [Quantum Gravity Research Emergence Theory E8 Lattice](Quantum-Gravity-Research-Emergence-Theory-E8-Lattice)
+        * [E8 Tetrahedral D248](E8-Tetrahedral-D248)
+        * [Quasi Crystal](Quasi-Crystal)
+* [Physics](Physics)
+   * [Fermi labs](Fermi-labs)
+   * [Unsolved Problems in physics](Unsolved-Problems-in-physics)
+   * [Particle physics](Particle-physics)
+   * [Special Relativity](Special-Relativity)
+   * [Nuclear physics  ](Nuclear-physics)
+   * [Gravity](Gravity)
+   * [Radioactive decay](Radioactive-decay)
+   * [General Theory of Relativity Standard model](General-Theory-of-Relativity-Standard-mode)
+     * [TimeSpace](TimeSpace)
+     * [Dilation](Dilation)
+     * [Event horizon](Event-horizon)
+     * [Hilbert space](Hilbert-space)
+* [Quantum Theory](Quantum-Theory)
+   * [Quantum Physics](Quantum-Physics)
+   * [Quantum Mechanics](Quantum-Mechanics)
+   * [Quantum Thermodynamics](Quantum-Thermodynamics)
+   * [Particles](Particles)
+   * [Quantum Economics](Quantum-Economics)
+   * [Quantum Biology](Quantum-Biology)
+* [Math](Math)
+   * [Geometry](Geometry)
+   * [Golden ratio Fibonacci](Golden-ratio-Fibonacci)
+   * [Complex numbers graph](Complex-numbers-graph)
+   * [Irrational numbers](Irrational-numbers)
+   * [Convergence](Convergence)
+* [Chemistry](Chemistry)
+   * [Periodic table Elements](Periodic-table-Elements)
+   * [Chemical reactions](Chemical-reactions)
+   * [Crystal (structures / patterns)](rystal-(structures-/-patterns)
+* [Biology](Biology)
+   * [Astrobiology Theory ](strobiology-Theory)
+   * [Tomonori Totani Tokyo University 00 - Is life a game of chance](Tomonori-Totani-Tokyo-University-00-Is-life-a-game-of-chance)
+   * [Daniel MAbrams TEDed -selection](Daniel-MAbrams-TEDed-selection)
+   * [Eyes](Eyes)
+   * [Nutrition](Nutrition)
+   * [Hormones](Hormones)
+   * [Cells](Cells)
+* [Astronomy](Astronomy)
+   * [Observable Universe](Observable Universe)
+   * [Edge of an infinite universe](Edge of an infinite universe)
+   * [Black Hole Information paradox](Black Hole Information paradox)
+   * [Blackhole Holographic Principle](Blackhole Holographic Principle)
+   * [Google Sky](Google Sky)
+   * [Solar System](Solar System)
+* [Anthropology](Anthropology)
+   * [Time](Time)
+   * [Type I Civilization Humanity at 00 (Harnessing all of the Planet Energy)](Type-I-Civilization-Humanity-at-00-(Harnessing-all-of-the-Planet-Energy))
+   * [Type II Civilization (Harnessing all of the Star (Sun) Energy)](Type-II-Civilization-(Harnessing-all-of-the-Star-(Sun)-Energy))
+   * [Type III Civilization (Harnessing all of the Galaxy Energy)](Type III Civilization (Harnessing-all-of-the-Galaxy-Energy))
+   * [Type IV Civilization](Type-IV-Civilization)
+   * [Type V Civilization](Type-V-Civilization)
+* [The Human Brain](The-Human-Brain)
+   * [Human Brain Anatomy](Human-Brain-Anatomy)
+   * [The Human Nervous system](The-Human-Nervous-system)
+   * [Dopamine](Dopamine)
+   * [Brain Dominance Theory](Brain-Dominance-Theory)
+   * [Homeostasis](Homeostasis)
+   * [Brain Waves EEG]()
+   * [Emotions and Energy Waves](Emotions-and-Energy-Waves)
+   * [Intelligence](Intelligence)
+* [Consciousness](Consciousness)
+   * [Philosophical ideas](Philosophical-ideas)
+   * [Mind-Body Problem](Mind-Body-Problem)
+   * [Solipsism](Solipsism)
+   * [Optimistic Nihilism](Optimistic-Nihilism)
+   * [Sensual Perception](Sensual-Perception)
+   * [Time perception](Time-perception)
+* [DNA Binaries](NA Binaries)
+   * [Maya Mechanics](Maya-Mechanics)
+   * [Chinese l-Ching](Chinese-l-Ching)
+* [Concentration & Focus](Concentration-&-Focus)
+   * [Communications](Communications)
+   * [Language - Symbols](Language-Symbols)
+   * [Visual](Visual)
+   * [Mental](Mental)
+   * [Body language](Body-language)
+   * [Microexpressions](Microexpressions)
+* [Interactions](Interactions)
+   * [Manifestation](Manifestation)
+   * [Inner Behavior](Inner-Behavior)
+* [Based on the work of:](Based-on-the-work-of:)
+   * [John Forbes Nash 1928-2015 USA-Nash Equilibrium](John-Forbes-Nash-1928-2015-USA-Nash-Equilibrium)
+   * [David Hilbert 1862-1943, Germany– Hilbert’s math problems](David-Hilbert-1862-1943,-Germany–Hilbert’s-math-problems)
+   * [Harry (Hillel) Furstenberg 1935 Germany, Israel -Infinitude of Primes](Harry-(Hillel)-Furstenberg-1935 Germany,-Israel-Infinitude-of-Primes)
+   * [Roger Wolcott Sperry 1913-1994 USA - functional specialization of the cerebral hemispheres](Roger-Wolcott-Sperry-1913-1994-USA-functional specialization-of-the-cerebral-hemispheres)
 
 
-# Theory of Everything
-===[http://rzwiki.synergize.co/index.php/What_is_a_TOE What is a TOE]===
+## Theory of Everything
 
-===Quantum world and TOE - [http://rzwiki.synergize.co/index.php/What_is_a_TOE Weizmann institute 2019]===
+* [http://rzwiki.synergize.co/index.php/What_is_a_TOE What is a TOE]
 
-===[http://rzwiki.synergize.co/index.php/What_is_a_TOE Garrett Lisi TED 2008]===
+* Quantum world and TOE - [http://rzwiki.synergize.co/index.php/What_is_a_TOE Weizmann institute 2019]
 
-===TOE in 3 easy steps – [http://rzwiki.synergize.co/index.php/What_is_a_TOE Forbes 2018]===
+* [http://rzwiki.synergize.co/index.php/What_is_a_TOE Garrett Lisi TED 2008]
 
-===Emergence Theory===
+* TOE in 3 easy steps – [http://rzwiki.synergize.co/index.php/What_is_a_TOE Forbes 2018]
+
+## Emergence Theory
 
 [http://rzwiki.synergize.co/index.php/Emergence_Theory How small things create big things, simplicity to complexity]
 
-==[http://rzwiki.synergize.co/index.php/Theoretical_Physics Theoretical Physics]==
+[http://rzwiki.synergize.co/index.php/Theoretical_Physics Theoretical Physics]
 
-===Big bounce (Big bang Heartbeat)===
+## Big bounce (Big bang Heartbeat)
 
 Into The Universe - [http://rzwiki.synergize.co/index.php/Theoretical_Physics Stephen Hawking 2015]
 
 The origin of the Universe - [http://rzwiki.synergize.co/index.php/Theoretical_Physics Stephen Hawking 2018]
 
-===Loop Quantum Gravity===
+## Loop Quantum Gravity
 
 Carlo Rovelli [http://rzwiki.synergize.co/index.php/Theoretical_Physics CPT Marseille 2018 Lectures]
 
@@ -136,7 +137,7 @@ Carlo Rovelli [http://rzwiki.synergize.co/index.php/Theoretical_Physics CPT Mars
 
 [http://rzwiki.synergize.co/index.php/Theoretical_Physics Spin Networks – Carlo Rovelli Oxford Mathematics 2019]
 
-===[http://rzwiki.synergize.co/index.php/Theoretical_Physics Physics beyond the standard model]===
+[http://rzwiki.synergize.co/index.php/Theoretical_Physics Physics beyond the standard model]
 
 [http://rzwiki.synergize.co/index.php/Theoretical_Physics Beyond the Higgs]
 
@@ -148,13 +149,13 @@ The idea of the String Theory - [http://rzwiki.synergize.co/index.php/Theoretica
 
 [http://rzwiki.synergize.co/index.php/Theoretical_Physics Super Partner Sparticles]
 
-===Athene’s TOE ===
+## Athene’s TOE
 
 [http://rzwiki.synergize.co/index.php/Theoretical_Physics Athene's Theory of Everything Explained]
 
 [http://rzwiki.synergize.co/index.php/Theoretical_Physics What is Consciousness? What Is Its Purpose?]
 
-===Quantum Gravity Research Emergence Theory (E8 Lattice)===
+Quantum Gravity Research Emergence Theory (E8 Lattice)
 
 [http://rzwiki.synergize.co/index.php/Theoretical_Physics Is E8 Lattice the True Nature of Reality?]
 
@@ -164,7 +165,7 @@ The idea of the String Theory - [http://rzwiki.synergize.co/index.php/Theoretica
 
 [http://rzwiki.synergize.co/index.php/Theoretical_Physics Quantum Thermodynamics]
 
-====E8 Tetrahedral D248====
+## E8 Tetrahedral D248
 
 [http://rzwiki.synergize.co/index.php/Theoretical_Physics Scientific Clues That We Are Living In the Matrix]
 
@@ -172,13 +173,13 @@ The idea of the String Theory - [http://rzwiki.synergize.co/index.php/Theoretica
 
 [http://rzwiki.synergize.co/index.php/Theoretical_Physics What Is Reality?]
 
-====Quasi Crystal====
+## Quasi Crystal
 
 [http://rzwiki.synergize.co/index.php/Theoretical_Physics The Quasi-crystalline Spin Network]
 
 [http://rzwiki.synergize.co/index.php/Theoretical_Physics Quasi Crystal language]
 
-==Physics==
+Physics
 
 ===Fermi labs=== 
 [http://rzwiki.synergize.co/index.php/Physics Science of Matter, Energy, Space and Time]
