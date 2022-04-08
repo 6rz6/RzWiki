@@ -1,8 +1,8 @@
-#Table of contents
+Table of contents
 =================
 
-##<!--ts-->
-     * ###[Theory of Everything](#Theory-of-Everything)
+<!--ts-->
+     * [Theory of Everything](#Theory-of-Everything)
         *[What is a TOE](#what-is-a-TOE)
         *[Quantum world and TOE - Weizmann institute 2019](#quantum-world-and-TOE-Weizmann-institute-2019)
         *[Garrett Lisi TED 2008](#garrett-Lisi-TED-2008)
@@ -30,13 +30,14 @@
            *Event horizon
            *Hilbert space
      * Quantum Theory
-        #Quantum Physics
-        ##Quantum Mechanics
-        ###Quantum Thermodynamics
-        ####particles
-        ####Quantum Economics
-        ####Quantum Biology
-  <!--te-->
+        Quantum Physics
+        Quantum Mechanics
+        Quantum Thermodynamics
+        particles
+        Quantum Economics
+        Quantum Biology
+        
+ <!--te-->
 
 
 
