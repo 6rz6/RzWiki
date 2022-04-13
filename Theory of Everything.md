@@ -103,7 +103,7 @@ Table of contents
    * [Roger Wolcott Sperry 1913-1994 USA - functional specialization of the cerebral hemispheres](Roger-Wolcott-Sperry-1913-1994-USA-functional-specialization-of-the-cerebral-hemispheres)
 
 
-## Theory of Everything
+## [Theory of Everything](Theory-of-Everything) 
 
 * [http://rzwiki.synergize.co/index.php/What_is_a_TOE What is a TOE]
 
