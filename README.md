@@ -2,7 +2,7 @@
 
 Technology R&D Team leading Specialist Co-Founder and CTO at Senno Hong kong SAR
 
-[Linkedin](https://www.linkedin.com/in/rudy-z1/) | [Github](https://github.com/Rzwiki)
+[Github](https://github.com/Rzwiki)
 
 ---
 
