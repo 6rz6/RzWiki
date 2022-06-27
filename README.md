@@ -30,26 +30,41 @@ I'm Experienced in:
 
 **[Senno on Forbes](https://www.forbes.com/sites/rogeraitken/2018/05/31/can-the-ai-blockchain-combo-finally-crack-the-crypto-market/)**
 
+![image](https://user-images.githubusercontent.com/73697823/175999212-793f16f7-52ef-4fc9-ab40-e5a03084e2f2.png)
+
+
 While artificial intelligence (AI) and machine learning have been applied for trading fiat currencies for some time now, and occurred almost as soon as cryptocurrencies became tradable on exchanges, they are being applied to help traders analyze.
 
 
 **[Interview on Digitaljournal.com](https://www.digitaljournal.com/pr/)**
 
+![image](https://user-images.githubusercontent.com/73697823/175999570-6e96a592-7ac0-4af0-be1d-692fb07fa573.png)
+
 Senno, a data monetization platform, was one of 11 companies that recently completed the Startup Bootcamp (SBC) Energy Australia accelerator program. The SBC accelerator program received over 650 applications from 28 cities across four continents.
 
 **[F6S.com coverage of Rudy Zakuto CF and CTO at Senno.io](https://www.f6s.com/rudyzakuto)**
+
+![image](https://user-images.githubusercontent.com/73697823/175999649-3a4255d6-ec03-4bb4-8f76-6e7c6692a6cd.png)
 
 Rudy Zakuto: Technology and Finance Expert with Over 20 years of hands on development ex. User Startup Experience, Connections and Recommendations...
 
 **[Senno - ICO rating and details](https://icobench.com/ico/senno)**
 
+![image](https://user-images.githubusercontent.com/73697823/175999687-176f9c55-23b3-440d-a901-10a07adb1d90.png)
+
 Senno [SENNO] ICO rating 2.8 out of 5.0, reviews, whitepaper, token price, start and end dates, exchanges, team, and financial data - Senno is the Blockchain’s first sentiment analysis platform with an open API for 3rd party apps.
 
 **[Publications](https://github.com/SennoGroup/SennoWhitePaper)**
 
+![image](https://user-images.githubusercontent.com/73697823/175999713-c2ad2122-07d1-4a01-9ab8-c62c5cf461b7.png)
+
+
 Senno WhitePaper - Distributed Sentiment analysis platform based on NEO Blockchain.
 
 **[NEO vs. Ethereum: Which Platform is Currently Better for ICOs?](insidermonkey.com/blog/neo-vs-ethereum-which-platform-is-currently-better-for-icos-658446/)**
+
+![image](https://user-images.githubusercontent.com/73697823/175999789-a260e691-2fa5-49cd-84db-b273a99fbfed.png)
+
 
 Give credit where credit is due. The crypto space owes a lot of its growth to Ethereum. As the pioneering smart contract platform, Ethereum has empowered...
 
