@@ -28,43 +28,43 @@ I'm Experienced in:
 
 ## Featured
 
-**[Senno on Forbes](https://www.forbes.com/sites/rogeraitken/2018/05/31/can-the-ai-blockchain-combo-finally-crack-the-crypto-market/)**
+**Senno on Forbes**
 
-![image](https://user-images.githubusercontent.com/73697823/175999212-793f16f7-52ef-4fc9-ab40-e5a03084e2f2.png)
+![ai blockchain](https://user-images.githubusercontent.com/73697823/176146023-35b693fb-4260-4720-9eaa-6410e72e7cff.png) ![1655200040828](https://user-images.githubusercontent.com/73697823/176145564-fffc02dd-3a32-4878-b862-7d888202be88.jpg) 
+
 
 
 While artificial intelligence (AI) and machine learning have been applied for trading fiat currencies for some time now, and occurred almost as soon as cryptocurrencies became tradable on exchanges, they are being applied to help traders analyze.
 
 
-**[Interview on Digitaljournal.com](https://www.digitaljournal.com/pr/)**
+**Interview on Digitaljournal.com**
 
-![image](https://user-images.githubusercontent.com/73697823/175999570-6e96a592-7ac0-4af0-be1d-692fb07fa573.png)
+![Blog_15_01](https://user-images.githubusercontent.com/73697823/176148558-89c2308e-7652-42e8-abf5-765d83e7004d.png) ![Data-Monetization](https://user-images.githubusercontent.com/73697823/176147189-fd56bd44-b9b1-496e-8c93-5204f132431e.png)
 
 Senno, a data monetization platform, was one of 11 companies that recently completed the Startup Bootcamp (SBC) Energy Australia accelerator program. The SBC accelerator program received over 650 applications from 28 cities across four continents.
 
-**[F6S.com coverage of Rudy Zakuto CF and CTO at Senno.io](https://www.f6s.com/rudyzakuto)**
+**F6S.com coverage of Rudy Zakuto CF and CTO at Senno.io**
 
-![image](https://user-images.githubusercontent.com/73697823/175999649-3a4255d6-ec03-4bb4-8f76-6e7c6692a6cd.png)
+![blog-5-1024x555](https://user-images.githubusercontent.com/73697823/176147879-d1d2fbd3-148e-4fb9-a628-ef3efd97f628.jpg) ![GettyImages-964033964-ca3290057ccc4024b57e755423572264](https://user-images.githubusercontent.com/73697823/176148174-3a85db32-b801-438e-ab9d-64ed1ea8a392.jpg)
+
 
 Rudy Zakuto: Technology and Finance Expert with Over 20 years of hands on development ex. User Startup Experience, Connections and Recommendations...
 
-**[Senno - ICO rating and details](https://icobench.com/ico/senno)**
+**Senno - ICO rating and details**
 
-![image](https://user-images.githubusercontent.com/73697823/175999687-176f9c55-23b3-440d-a901-10a07adb1d90.png)
+![1656329124282](https://user-images.githubusercontent.com/73697823/176149295-307f34f9-aeb5-405b-9971-057a1c19dc2e.jpg) ![download (3)](https://user-images.githubusercontent.com/73697823/176149381-6785ce7f-d349-44f3-bbd0-ddae3c4219ca.jpg)
 
 Senno [SENNO] ICO rating 2.8 out of 5.0, reviews, whitepaper, token price, start and end dates, exchanges, team, and financial data - Senno is the Blockchain’s first sentiment analysis platform with an open API for 3rd party apps.
 
-**[Publications](https://github.com/SennoGroup/SennoWhitePaper)**
+**Publications**
 
-![image](https://user-images.githubusercontent.com/73697823/175999713-c2ad2122-07d1-4a01-9ab8-c62c5cf461b7.png)
-
+![NEO-blockchain](https://user-images.githubusercontent.com/73697823/176150058-acec6489-212d-4efc-aebf-8b3dc85f4c78.jpeg) ![1656329118225](https://user-images.githubusercontent.com/73697823/176150194-36986a23-afde-4e5a-a6f2-6aa3524c17f7.jpg)
 
 Senno WhitePaper - Distributed Sentiment analysis platform based on NEO Blockchain.
 
-**[NEO vs. Ethereum: Which Platform is Currently Better for ICOs?](insidermonkey.com/blog/neo-vs-ethereum-which-platform-is-currently-better-for-icos-658446/)**
+**NEO vs. Ethereum: Which Platform is Currently Better for ICOs?**
 
-![image](https://user-images.githubusercontent.com/73697823/175999789-a260e691-2fa5-49cd-84db-b273a99fbfed.png)
-
+![1_SEhGaomyoQNSkMZaTMa0rA](https://user-images.githubusercontent.com/73697823/176150934-8cc9d3ca-d659-4330-8bcd-97d8e408dfd4.jpeg) ![blockchain-cryptocurrency-bitcoin-ethereum-92528784_s](https://user-images.githubusercontent.com/73697823/176150963-011044a1-dfe8-4490-ae6a-c602cf540c2a.jpg)
 
 Give credit where credit is due. The crypto space owes a lot of its growth to Ethereum. As the pioneering smart contract platform, Ethereum has empowered...
 
