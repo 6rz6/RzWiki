@@ -30,41 +30,40 @@ I'm Experienced in:
 
 **Senno on Forbes**
 
-![ai blockchain](https://user-images.githubusercontent.com/73697823/176146023-35b693fb-4260-4720-9eaa-6410e72e7cff.png) ![1655200040828](https://user-images.githubusercontent.com/73697823/176145564-fffc02dd-3a32-4878-b862-7d888202be88.jpg) 
-
+![ai blockchain](https://user-images.githubusercontent.com/73697823/176155329-ebc8f429-79bf-42e2-8797-b9d6bd8c9215.png) ![1655200040828](https://user-images.githubusercontent.com/73697823/176155364-5f0065f9-f317-42aa-93b8-9b80b1050b78.jpg) ![Machine-learning](https://user-images.githubusercontent.com/73697823/176155599-e9cca92d-ec3e-47b0-a821-e22f68ec90f2.jpeg)
 
 
 While artificial intelligence (AI) and machine learning have been applied for trading fiat currencies for some time now, and occurred almost as soon as cryptocurrencies became tradable on exchanges, they are being applied to help traders analyze.
 
-
 **Interview on Digitaljournal.com**
 
-![Blog_15_01](https://user-images.githubusercontent.com/73697823/176148558-89c2308e-7652-42e8-abf5-765d83e7004d.png) ![Data-Monetization](https://user-images.githubusercontent.com/73697823/176147189-fd56bd44-b9b1-496e-8c93-5204f132431e.png)
+![Data-Monetization](https://user-images.githubusercontent.com/73697823/176156285-0b11b16d-8aba-4879-8198-6ab0d2d4f0a3.png) ![Blog_15_01](https://user-images.githubusercontent.com/73697823/176156315-051b6300-c87c-487c-90bc-05d49bf9accd.png) ![GEN-Swartz-Data-Monetization-Cost-Reduction-Revenue-Growth-1200x627-1200x627](https://user-images.githubusercontent.com/73697823/176156327-5573ed9d-3deb-43b4-981a-6110011f0ff5.jpg)
 
 Senno, a data monetization platform, was one of 11 companies that recently completed the Startup Bootcamp (SBC) Energy Australia accelerator program. The SBC accelerator program received over 650 applications from 28 cities across four continents.
 
 **F6S.com coverage of Rudy Zakuto CF and CTO at Senno.io**
 
-![blog-5-1024x555](https://user-images.githubusercontent.com/73697823/176147879-d1d2fbd3-148e-4fb9-a628-ef3efd97f628.jpg) ![GettyImages-964033964-ca3290057ccc4024b57e755423572264](https://user-images.githubusercontent.com/73697823/176148174-3a85db32-b801-438e-ab9d-64ed1ea8a392.jpg)
-
+![blog-5-1024x555](https://user-images.githubusercontent.com/73697823/176156818-80cbe250-d864-4ddf-aa57-8ae808f12015.jpg) ![How-Can-You-Improve-the-User-Experience-of-Your-Online-Startup-Tycoonstory](https://user-images.githubusercontent.com/73697823/176156837-f03814f1-19d0-4ec1-8325-eb7f59ad7b25.jpg) ![GettyImages-964033964-ca3290057ccc4024b57e755423572264](https://user-images.githubusercontent.com/73697823/176156871-99b08d3c-48ad-4a16-90bc-18400ee7df3e.jpg)
 
 Rudy Zakuto: Technology and Finance Expert with Over 20 years of hands on development ex. User Startup Experience, Connections and Recommendations...
 
 **Senno - ICO rating and details**
 
-![1656329124282](https://user-images.githubusercontent.com/73697823/176149295-307f34f9-aeb5-405b-9971-057a1c19dc2e.jpg) ![download (3)](https://user-images.githubusercontent.com/73697823/176149381-6785ce7f-d349-44f3-bbd0-ddae3c4219ca.jpg)
+![1656329124282](https://user-images.githubusercontent.com/73697823/176157677-e4365afe-ea21-4d98-aba5-c96ebb2c8517.jpg) ![senno-featured](https://user-images.githubusercontent.com/73697823/176157705-1b941e6e-a108-4b24-9a2b-1b90e1b5d4fc.jpg) ![download (3)](https://user-images.githubusercontent.com/73697823/176157841-24fae902-1265-4f58-b6e3-502390837b19.jpg)
 
 Senno [SENNO] ICO rating 2.8 out of 5.0, reviews, whitepaper, token price, start and end dates, exchanges, team, and financial data - Senno is the Blockchain’s first sentiment analysis platform with an open API for 3rd party apps.
 
 **Publications**
 
-![NEO-blockchain](https://user-images.githubusercontent.com/73697823/176150058-acec6489-212d-4efc-aebf-8b3dc85f4c78.jpeg) ![1656329118225](https://user-images.githubusercontent.com/73697823/176150194-36986a23-afde-4e5a-a6f2-6aa3524c17f7.jpg)
+![NEO-blockchain](https://user-images.githubusercontent.com/73697823/176158157-27eb2549-4b6b-47fc-ba16-1f5f9413934f.jpeg) ![1656329118225](https://user-images.githubusercontent.com/73697823/176158177-2d191504-62f0-4b7e-8742-d829baab7462.jpg) ![download (4)](https://user-images.githubusercontent.com/73697823/176158307-f4cd5fb5-a70b-4ba0-bd79-df28d4d306ff.jpg)
+
 
 Senno WhitePaper - Distributed Sentiment analysis platform based on NEO Blockchain.
 
 **NEO vs. Ethereum: Which Platform is Currently Better for ICOs?**
 
-![1_SEhGaomyoQNSkMZaTMa0rA](https://user-images.githubusercontent.com/73697823/176150934-8cc9d3ca-d659-4330-8bcd-97d8e408dfd4.jpeg) ![blockchain-cryptocurrency-bitcoin-ethereum-92528784_s](https://user-images.githubusercontent.com/73697823/176150963-011044a1-dfe8-4490-ae6a-c602cf540c2a.jpg)
+![1_SEhGaomyoQNSkMZaTMa0rA](https://user-images.githubusercontent.com/73697823/176158789-b27a7889-3566-456f-9a7c-a03622972eef.jpeg) ![blockchain-cryptocurrency-bitcoin-ethereum-92528784_s](https://user-images.githubusercontent.com/73697823/176158748-690a4725-4d9e-4438-b394-c67ca0b7c0ac.jpg) ![main-qimg-af7cbc851084413d04eb04fb94456c99-lq](https://user-images.githubusercontent.com/73697823/176159234-9c2abea8-9830-4367-9662-84f1c3429f58.jpg)
+
 
 Give credit where credit is due. The crypto space owes a lot of its growth to Ethereum. As the pioneering smart contract platform, Ethereum has empowered...
 
