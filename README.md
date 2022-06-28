@@ -53,12 +53,6 @@ Rudy Zakuto: Technology and Finance Expert with Over 20 years of hands on develo
 
 Senno [SENNO] ICO rating 2.8 out of 5.0, reviews, whitepaper, token price, start and end dates, exchanges, team, and financial data - Senno is the Blockchain’s first sentiment analysis platform with an open API for 3rd party apps.
 
-**Publications**
-
-![NEO-blockchain](https://user-images.githubusercontent.com/73697823/176158157-27eb2549-4b6b-47fc-ba16-1f5f9413934f.jpeg) ![1656329118225](https://user-images.githubusercontent.com/73697823/176158177-2d191504-62f0-4b7e-8742-d829baab7462.jpg) ![download (4)](https://user-images.githubusercontent.com/73697823/176158307-f4cd5fb5-a70b-4ba0-bd79-df28d4d306ff.jpg)
-
-
-Senno WhitePaper - Distributed Sentiment analysis platform based on NEO Blockchain.
 
 **NEO vs. Ethereum: Which Platform is Currently Better for ICOs?**
 
@@ -78,6 +72,13 @@ Here we will give instrustions that how to install and setup docker on linux...
 ![shutterstock_210000454](https://user-images.githubusercontent.com/73697823/176174180-facd7b06-7ad1-46a0-bd9e-f5e35c5c8241.jpg) ![theory-of-everything-07b7df3](https://user-images.githubusercontent.com/73697823/176174187-53d2c99c-17b9-4262-9e4b-b9f7eb52f93e.jpg) ![IUPAC-feature-image-1400x600](https://user-images.githubusercontent.com/73697823/176174471-c762cb61-a90c-41a7-bd84-1283fe903da1.jpg)
 
 Theory of Everything defines quantum physics, chemistry, maths, biology and different subjects in a derived manner..
+
+## Publications
+
+![NEO-blockchain](https://user-images.githubusercontent.com/73697823/176158157-27eb2549-4b6b-47fc-ba16-1f5f9413934f.jpeg) ![1656329118225](https://user-images.githubusercontent.com/73697823/176158177-2d191504-62f0-4b7e-8742-d829baab7462.jpg) ![download (4)](https://user-images.githubusercontent.com/73697823/176158307-f4cd5fb5-a70b-4ba0-bd79-df28d4d306ff.jpg)
+
+
+Senno WhitePaper - Distributed Sentiment analysis platform based on NEO Blockchain.
 
 ## Work Experience
 
