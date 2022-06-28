@@ -67,6 +67,18 @@ Senno WhitePaper - Distributed Sentiment analysis platform based on NEO Blockcha
 
 Give credit where credit is due. The crypto space owes a lot of its growth to Ethereum. As the pioneering smart contract platform, Ethereum has empowered...
 
+**Docker Setup**
+
+![075c8694 (1)](https://user-images.githubusercontent.com/73697823/176172229-cf9b5e2e-7dae-4ab1-8807-a36d0eb2ff98.png) ![how-to-use-docker-compose-title](https://user-images.githubusercontent.com/73697823/176172966-4d73526e-ca34-454a-81c5-0110c9a7c2b9.jpg) ![download (3)](https://user-images.githubusercontent.com/73697823/176173198-f488b858-8e93-4a3d-8962-8833f7fcf964.png)
+
+Here we will give instrustions that how to install and setup docker on linux...
+
+**Theory of Everything**
+
+![shutterstock_210000454](https://user-images.githubusercontent.com/73697823/176174180-facd7b06-7ad1-46a0-bd9e-f5e35c5c8241.jpg) ![theory-of-everything-07b7df3](https://user-images.githubusercontent.com/73697823/176174187-53d2c99c-17b9-4262-9e4b-b9f7eb52f93e.jpg) ![IUPAC-feature-image-1400x600](https://user-images.githubusercontent.com/73697823/176174471-c762cb61-a90c-41a7-bd84-1283fe903da1.jpg)
+
+Theory of Everything defines quantum physics, chemistry, maths, biology and different subjects in a derived manner..
+
 ## Work Experience
 
 **Founder of R-Marketing LTD**
