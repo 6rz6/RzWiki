@@ -70,19 +70,29 @@ Give credit where credit is due. The crypto space owes a lot of its growth to Et
 
 ## Work Experience
 
+**Founder of R-Marketing LTD**
+
+R-Marketing LTD
+
+*2020 - Present*
+
+ Specializing in BLockchain Architecture, ICO advisory. 
+ 
+ **CMO of CoTrader**
+
+CoTrader
+
+*2020 - Present*
+
+A Decebtrilized Finanace company specializing in DEX,Dapps development  NFTs.
+
 **Co-Founder and CTO of Senno.io**
 
 Senno
 
-*Jan 2017 - Present*
+*Jan 2017 - Dec 2020*
 
 Senno is an open, smart contract based, unified customer data platform, which will allow individuals to monetize and control their private information while providing accurate, GDPR compliant, low-cost refined data for any industry. The Senno protocol will disrupt the personal data industry by placing the user in the top of the value chain generated from the use of his private data. 
-
-My Github: [Senno-Group](https://github.com/orgs/SennoGroup/repositories)
-
- Publications: [Senno Whitepaper](https://senno.io/SennoWhitepaper.pdf)
-
- Medium: [@Senno](https://medium.com/@Senno/)
  
  **Founder and CEO**
  
