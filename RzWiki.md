@@ -5,7 +5,7 @@ Here you will get all the Information...
 ##  Table of Contents
 
 - [Docker Setup](https://github.com/6rz6/6rz6/blob/main/Docker%20Setup)
-- [Theory of Everything](https://github.com/6rz6/6rz6/edit/main/Theory%20of%20Everything.md)
+- [Theory of Everything](https://github.com/6rz6/6rz6/blob/main/Theory%20of%20Everything.md)
 - [Theoretical Physics](https://github.com/6rz6/6rz6/blob/main/Theoretical%20Physics.md)
 - [Physics](https://github.com/6rz6/6rz6/blob/main/Physics.md)
 - [Quantum Theory](https://github.com/6rz6/6rz6/blob/main/Quantum%20Theory.md)
