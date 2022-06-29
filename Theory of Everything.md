@@ -1,263 +1,222 @@
-Table of contents
-=================
-
-* [Theory of Everything](Theory-of-Everything) 
-    * [What is a TOE](what-is-a-TOE)
-     * [Quantum world and TOE  Weizmann institute 2019](Quantum-world-and-TOE-Weizmann-institute-2019)
-     * [Garrett Lisi TED 2008](Garrett-Lisi-TED-2008)
-     * [TOE in 3 easy steps – Forbes 2018tOE in 3 easy steps – Forbes 2018](TOE-in-3-easy-steps–Forbes-2018tOE-in-3-easy-steps–Forbes-2018)
-     * [Emergence Theoryemergence Theory](Emergence-Theoryemergence-Theory)
-* [Theoretical Physics](Theoretical-Physics)
-    * [Big bounce Big bang Heartbeat](Big-bounce-Big-bang-Heartbeat)
-    * [Loop Quantum Gravity](Loop-Quantum-Gravity)
-    * [Physics beyond the standard model](Physics-beyond-the-standard-model)
-    * [Athene’s TOE](Athene’s-TOE)
-    * [Quantum Gravity Research Emergence Theory E8 Lattice](Quantum-Gravity-Research-Emergence-Theory-E8-Lattice)
-        * [E8 Tetrahedral D248](E8-Tetrahedral-D248)
-        * [Quasi Crystal](Quasi-Crystal)
-* [Physics](Physics)
-   * [Fermi labs](Fermi-labs)
-   * [Unsolved Problems in physics](Unsolved-Problems-in-physics)
-   * [Particle physics](Particle-physics)
-   * [Special Relativity](Special-Relativity)
-   * [Nuclear physics  ](Nuclear-physics)
-   * [Gravity](Gravity)
-   * [Radioactive decay](Radioactive-decay)
-   * [General Theory of Relativity Standard model](General-Theory-of-Relativity-Standard-mode)
-     * [TimeSpace](TimeSpace)
-     * [Dilation](Dilation)
-     * [Event horizon](Event-horizon)
-     * [Hilbert space](Hilbert-space)
-* [Quantum Theory](Quantum-Theory)
-   * [Quantum Physics](Quantum-Physics)
-   * [Quantum Mechanics](Quantum-Mechanics)
-   * [Quantum Thermodynamics](Quantum-Thermodynamics)
-   * [Particles](Particles)
-   * [Quantum Economics](Quantum-Economics)
-   * [Quantum Biology](Quantum-Biology)
-* [Math](Math)
-   * [Geometry](Geometry)
-   * [Golden ratio Fibonacci](Golden-ratio-Fibonacci)
-   * [Complex numbers graph](Complex-numbers-graph)
-   * [Irrational numbers](Irrational-numbers)
-   * [Convergence](Convergence)
-* [Chemistry](Chemistry)
-   * [Periodic table Elements](Periodic-table-Elements)
-   * [Chemical reactions](Chemical-reactions)
-   * [Crystal (structures / patterns)](Crystal-(structures-/-patterns))
-* [Biology](Biology)
-   * [Astrobiology Theory ](strobiology-Theory)
-   * [Tomonori Totani Tokyo University 00 - Is life a game of chance](Tomonori-Totani-Tokyo-University-00-Is-life-a-game-of-chance)
-   * [Daniel MAbrams TEDed -selection](Daniel-MAbrams-TEDed-selection)
-   * [Eyes](Eyes)
-   * [Nutrition](Nutrition)
-   * [Hormones](Hormones)
-   * [Cells](Cells)
-* [Astronomy](Astronomy)
-   * [Observable Universe](Observable-Universe)
-   * [Edge of an infinite universe](Edge-of-an-infinite-universe)
-   * [Black Hole Information paradox](Black-Hole-Information-paradox)
-   * [Blackhole Holographic Principle](Black-hole-Holographic-Principle)
-   * [Google Sky](Google-Sky)
-   * [Solar System](Solar-System)
-* [Anthropology](Anthropology)
-   * [Time](Time)
-   * [Type I Civilization Humanity at 00 (Harnessing all of the Planet Energy)](Type-I-Civilization-Humanity-at-00-(Harnessing-all-of-the-Planet-Energy))
-   * [Type II Civilization (Harnessing all of the Star (Sun) Energy)](Type-II-Civilization-(Harnessing-all-of-the-Star-(Sun)-Energy))
-   * [Type III Civilization (Harnessing all of the Galaxy Energy)](Type-III-Civilization-(Harnessing-all-of-the-Galaxy-Energy))
-   * [Type IV Civilization](Type-IV-Civilization)
-   * [Type V Civilization](Type-V-Civilization)
-* [The Human Brain](The-Human-Brain)
-   * [Human Brain Anatomy](Human-Brain-Anatomy)
-   * [The Human Nervous system](The-Human-Nervous-system)
-   * [Dopamine](Dopamine)
-   * [Brain Dominance Theory](Brain-Dominance-Theory)
-   * [Homeostasis](Homeostasis)
-   * [Brain Waves EEG]()
-   * [Emotions and Energy Waves](Emotions-and-Energy-Waves)
-   * [Intelligence](Intelligence)
-* [Consciousness](Consciousness)
-   * [Philosophical ideas](Philosophical-ideas)
-   * [Mind-Body Problem](Mind-Body-Problem)
-   * [Solipsism](Solipsism)
-   * [Optimistic Nihilism](Optimistic-Nihilism)
-   * [Sensual Perception](Sensual-Perception)
-   * [Time perception](Time-perception)
-* [DNA Binaries](DNA-Binaries)
-   * [Maya Mechanics](Maya-Mechanics)
-   * [Chinese l-Ching](Chinese-l-Ching)
-* [Concentration & Focus](Concentration-&-Focus)
-   * [Communications](Communications)
-   * [Language - Symbols](Language-Symbols)
-   * [Visual](Visual)
-   * [Mental](Mental)
-   * [Body language](Body-language)
-   * [Microexpressions](Microexpressions)
-* [Interactions](Interactions)
-   * [Manifestation](Manifestation)
-   * [Inner Behavior](Inner-Behavior)
-* [Based on the work of](Based-on-the-work-of)
-   * [John Forbes Nash 1928-2015 USA-Nash Equilibrium](John-Forbes-Nash-1928-2015-USA-Nash-Equilibrium)
-   * [David Hilbert 1862-1943, Germany– Hilbert’s math problems](David-Hilbert-1862-1943,-Germany–Hilbert’s-math-problems)
-   * [Harry (Hillel) Furstenberg 1935 Germany, Israel -Infinitude of Primes](Harry-(Hillel)-Furstenberg-1935-Germany,-Israel-Infinitude-of-Primes)
-   * [Roger Wolcott Sperry 1913-1994 USA - functional specialization of the cerebral hemispheres](Roger-Wolcott-Sperry-1913-1994-USA-functional-specialization-of-the-cerebral-hemispheres)
+## Theory of Everything
 
+### [What is a TOE](http://rzwiki.synergize.co/index.php/What_is_a_TOE)
 
-## [Theory of Everything](Theory-of-Everything) 
+### [Quantum world and TOE - Weizmann institute 2019](http://rzwiki.synergize.co/index.php/Quantum_world_and_TOE_-_Weizmann_institute_2019)
 
-* [http://rzwiki.synergize.co/index.php/What_is_a_TOE What is a TOE]
+### [Garrett Lisi TED 2008](http://rzwiki.synergize.co/index.php/Garrett_Lisi_TED_2008)
 
-* Quantum world and TOE - [http://rzwiki.synergize.co/index.php/What_is_a_TOE Weizmann institute 2019]
+### [TOE in 3 easy steps – Forbes 2018](http://rzwiki.synergize.co/index.php/TOE_in_3_easy_steps_%E2%80%93_Forbes_2018)
 
-* [http://rzwiki.synergize.co/index.php/What_is_a_TOE Garrett Lisi TED 2008]
+### Emergence Theory
 
-* TOE in 3 easy steps – [http://rzwiki.synergize.co/index.php/What_is_a_TOE Forbes 2018]
+[How small things create big things, simplicity to
+complexity](http://rzwiki.synergize.co/index.php/Emergence_Theory)
 
-## Emergence Theory
+## [Theoretical Physics](http://rzwiki.synergize.co/index.php/Theoretical_Physics)
 
-[http://rzwiki.synergize.co/index.php/Emergence_Theory How small things create big things, simplicity to complexity]
+### Big bounce (Big bang Heartbeat)
 
-[http://rzwiki.synergize.co/index.php/Theoretical_Physics Theoretical Physics]
+Into The Universe - [Stephen
+Hawking 2015](http://rzwiki.synergize.co/index.php/Theoretical_Physics)
 
-## Big bounce (Big bang Heartbeat)
+The origin of the Universe - [Stephen
+Hawking 2018](http://rzwiki.synergize.co/index.php/Theoretical_Physics)
 
-Into The Universe - [http://rzwiki.synergize.co/index.php/Theoretical_Physics Stephen Hawking 2015]
+### Loop Quantum Gravity
 
-The origin of the Universe - [http://rzwiki.synergize.co/index.php/Theoretical_Physics Stephen Hawking 2018]
+Carlo Rovelli [CPT Marseille 2018
+Lectures](http://rzwiki.synergize.co/index.php/Theoretical_Physics)
 
-## Loop Quantum Gravity
+\[Loop Quantum Gravity (Flower of Life)\]
 
-Carlo Rovelli [http://rzwiki.synergize.co/index.php/Theoretical_Physics CPT Marseille 2018 Lectures]
+[Loop Quantum Gravity
+Explained](http://rzwiki.synergize.co/index.php/Theoretical_Physics)
 
-[Loop Quantum Gravity  (Flower of Life)]
+[(White/Black Hole entropy zero
+spins)](http://rzwiki.synergize.co/index.php/Theoretical_Physics)
 
-[http://rzwiki.synergize.co/index.php/Theoretical_Physics Loop Quantum Gravity Explained]
+[Spin Networks – Carlo Rovelli Oxford
+Mathematics 2019](http://rzwiki.synergize.co/index.php/Theoretical_Physics)
 
-[http://rzwiki.synergize.co/index.php/Theoretical_Physics (White/Black Hole entropy zero spins)]
+### [Physics beyond the standard model](http://rzwiki.synergize.co/index.php/Theoretical_Physics)
 
-[http://rzwiki.synergize.co/index.php/Theoretical_Physics Spin Networks – Carlo Rovelli Oxford Mathematics 2019]
+[Beyond the
+Higgs](http://rzwiki.synergize.co/index.php/Theoretical_Physics)
 
-[http://rzwiki.synergize.co/index.php/Theoretical_Physics Physics beyond the standard model]
+[String Theory Explained -
+unprovable](http://rzwiki.synergize.co/index.php/Theoretical_PhysicsU)
 
-[http://rzwiki.synergize.co/index.php/Theoretical_Physics Beyond the Higgs]
+The idea of the String Theory - [Brian Greene
+TED 2013](http://rzwiki.synergize.co/index.php/Theoretical_Physics)
 
-[http://rzwiki.synergize.co/index.php/Theoretical_PhysicsU String Theory Explained - unprovable]
+[SuperSymmetry Theory
+(SUSY)](http://rzwiki.synergize.co/index.php/Theoretical_Physics) -
+unprovable
 
-The idea of the String Theory - [http://rzwiki.synergize.co/index.php/Theoretical_Physics Brian Greene TED 2013]
+[Super Partner
+Sparticles](http://rzwiki.synergize.co/index.php/Theoretical_Physics)
 
-[http://rzwiki.synergize.co/index.php/Theoretical_Physics SuperSymmetry Theory (SUSY)] - unprovable
+### Athene’s TOE
 
-[http://rzwiki.synergize.co/index.php/Theoretical_Physics Super Partner Sparticles]
+[Athene's Theory of Everything
+Explained](http://rzwiki.synergize.co/index.php/Theoretical_Physics)
 
-## Athene’s TOE
+[What is Consciousness? What Is Its
+Purpose?](http://rzwiki.synergize.co/index.php/Theoretical_Physics)
 
-[http://rzwiki.synergize.co/index.php/Theoretical_Physics Athene's Theory of Everything Explained]
+### Quantum Gravity Research Emergence Theory (E8 Lattice)
 
-[http://rzwiki.synergize.co/index.php/Theoretical_Physics What is Consciousness? What Is Its Purpose?]
+[Is E8 Lattice the True Nature of
+Reality?](http://rzwiki.synergize.co/index.php/Theoretical_Physics)
 
-Quantum Gravity Research Emergence Theory (E8 Lattice)
+[Theory: A Layperson's
+Guide](http://rzwiki.synergize.co/index.php/Theoretical_PhysicsEmergence)
 
-[http://rzwiki.synergize.co/index.php/Theoretical_Physics Is E8 Lattice the True Nature of Reality?]
+[Klee
+Irwin 2017](http://rzwiki.synergize.co/index.php/Theoretical_Physics)
 
-[http://rzwiki.synergize.co/index.php/Theoretical_PhysicsEmergence Theory: A Layperson's Guide]
+[Quantum
+Thermodynamics](http://rzwiki.synergize.co/index.php/Theoretical_Physics)
 
-[http://rzwiki.synergize.co/index.php/Theoretical_Physics Klee Irwin 2017]
+#### E8 Tetrahedral D248
 
-[http://rzwiki.synergize.co/index.php/Theoretical_Physics Quantum Thermodynamics]
+[Scientific Clues That We Are Living In the
+Matrix](http://rzwiki.synergize.co/index.php/Theoretical_Physics)
 
-## E8 Tetrahedral D248
+[Hacking
+Reality](http://rzwiki.synergize.co/index.php/Theoretical_Physics)
 
-[http://rzwiki.synergize.co/index.php/Theoretical_Physics Scientific Clues That We Are Living In the Matrix]
+[What Is
+Reality?](http://rzwiki.synergize.co/index.php/Theoretical_Physics)
 
-[http://rzwiki.synergize.co/index.php/Theoretical_Physics Hacking Reality]
+#### Quasi Crystal
 
-[http://rzwiki.synergize.co/index.php/Theoretical_Physics What Is Reality?]
+[The Quasi-crystalline Spin
+Network](http://rzwiki.synergize.co/index.php/Theoretical_Physics)
 
-## Quasi Crystal
+[Quasi Crystal
+language](http://rzwiki.synergize.co/index.php/Theoretical_Physics)
 
-[http://rzwiki.synergize.co/index.php/Theoretical_Physics The Quasi-crystalline Spin Network]
+## Physics
 
-[http://rzwiki.synergize.co/index.php/Theoretical_Physics Quasi Crystal language]
+### Fermi labs
 
-Physics
+[Science of Matter, Energy, Space and
+Time](http://rzwiki.synergize.co/index.php/Physics)
 
-===Fermi labs=== 
-[http://rzwiki.synergize.co/index.php/Physics Science of Matter, Energy, Space and Time]
+### [Unsolved Problems in physics](http://rzwiki.synergize.co/index.php/Physics)
 
-===[http://rzwiki.synergize.co/index.php/Physics Unsolved Problems in physics]===
+### [Particle physics](http://rzwiki.synergize.co/index.php/Physics)
 
-===[http://rzwiki.synergize.co/index.php/Physics Particle physics]===
+[What Is Something?](http://rzwiki.synergize.co/index.php/Physics)
 
-[http://rzwiki.synergize.co/index.php/Physics What Is Something?]  
+[Elementary Particles](http://rzwiki.synergize.co/index.php/Physics) |
+[Table](http://rzwiki.synergize.co/index.php/Physics) |
+[Spreadsheet](http://rzwiki.synergize.co/index.php/Physics)
 
-[http://rzwiki.synergize.co/index.php/Physics Elementary Particles] | [http://rzwiki.synergize.co/index.php/Physics Table] | [http://rzwiki.synergize.co/index.php/Physics Spreadsheet]
+[Photons](http://rzwiki.synergize.co/index.php/Physics) |
+[Protons](http://rzwiki.synergize.co/index.php/Physics)
+|[Neutrons](http://rzwiki.synergize.co/index.php/Physics) -
+[Matter](http://rzwiki.synergize.co/index.php/Physics) |
+[Nucleus](http://rzwiki.synergize.co/index.php/Physics) | [Radioactive
+Decay (Alpha, Beta,
+Gamma)](http://rzwiki.synergize.co/index.php/Physics)
 
-[http://rzwiki.synergize.co/index.php/Physics Photons] | [http://rzwiki.synergize.co/index.php/Physics Protons] |[http://rzwiki.synergize.co/index.php/Physics Neutrons] - 
-[http://rzwiki.synergize.co/index.php/Physics Matter] | [http://rzwiki.synergize.co/index.php/Physics Nucleus] | [http://rzwiki.synergize.co/index.php/Physics Radioactive Decay (Alpha, Beta, Gamma)]
+[The standard model of Elementary
+particles](http://rzwiki.synergize.co/index.php/Physics) |[Extended
+Standard model 2019](http://rzwiki.synergize.co/index.php/Physics)
 
-[http://rzwiki.synergize.co/index.php/Physics The standard model of Elementary particles] |[http://rzwiki.synergize.co/index.php/Physics Extended Standard model 2019]
+### [Special Relativity](http://rzwiki.synergize.co/index.php/Physics)
 
-===[http://rzwiki.synergize.co/index.php/Physics Special Relativity]===
+### [Nuclear physics](http://rzwiki.synergize.co/index.php/Physics)
 
-===[http://rzwiki.synergize.co/index.php/Physics Nuclear physics]===
+[Vectors](http://rzwiki.synergize.co/index.php/Physics) | [R3
+Vectors](http://rzwiki.synergize.co/index.php/Physics) |
+[Vectors](http://rzwiki.synergize.co/index.php/Physics) |
+[Tensor](http://rzwiki.synergize.co/index.php/Physics)
 
-[http://rzwiki.synergize.co/index.php/Physics Vectors] | [http://rzwiki.synergize.co/index.php/Physics R3 Vectors] | [http://rzwiki.synergize.co/index.php/Physics Vectors] | [http://rzwiki.synergize.co/index.php/Physics Tensor] 
+[Light](http://rzwiki.synergize.co/index.php/Physics) –
+[Classical](http://rzwiki.synergize.co/index.php/Physics) |
+[Relativistic](http://rzwiki.synergize.co/index.php/Physics) |
+[Quantum](http://rzwiki.synergize.co/index.php/Physics) |
+[Laser](http://rzwiki.synergize.co/index.php/Physics)
 
-[http://rzwiki.synergize.co/index.php/Physics Light] – [http://rzwiki.synergize.co/index.php/Physics Classical] | [http://rzwiki.synergize.co/index.php/Physics Relativistic] | [http://rzwiki.synergize.co/index.php/Physics Quantum] | [http://rzwiki.synergize.co/index.php/Physics Laser]
+[Waves](http://rzwiki.synergize.co/index.php/Physics) – [Wave
+Length](http://rzwiki.synergize.co/index.php/Physics) -
+[Electromagnetic](http://rzwiki.synergize.co/index.php/Physics) |
+[Mechanical](http://rzwiki.synergize.co/index.php/Physics) | [wave
+function](http://rzwiki.synergize.co/index.php/Physics) | [Function
+Collapse](http://rzwiki.synergize.co/index.php/Physics) | [Fourier
+Transform](http://rzwiki.synergize.co/index.php/Physics)
 
-[http://rzwiki.synergize.co/index.php/Physics Waves] – [http://rzwiki.synergize.co/index.php/Physics Wave Length] - [http://rzwiki.synergize.co/index.php/Physics Electromagnetic] | [http://rzwiki.synergize.co/index.php/Physics Mechanical] | [http://rzwiki.synergize.co/index.php/Physics wave function] | [http://rzwiki.synergize.co/index.php/Physics Function Collapse] | [http://rzwiki.synergize.co/index.php/Physics Fourier Transform]
+[1](http://rzwiki.synergize.co/index.php/PhysicsFields) –
+[Electromagnetic field](http://rzwiki.synergize.co/index.php/Physics) |
+Electromagnetism |
+[Gravitoelectromagnetism](http://rzwiki.synergize.co/index.php/Physics)
 
-[http://rzwiki.synergize.co/index.php/PhysicsFields] – [http://rzwiki.synergize.co/index.php/Physics Electromagnetic field]  | Electromagnetism | [http://rzwiki.synergize.co/index.php/Physics Gravitoelectromagnetism]
+[Forces](http://rzwiki.synergize.co/index.php/Physics) -
+[Magnetic](http://rzwiki.synergize.co/index.php/Physics) | [Electro
+Magnetic](http://rzwiki.synergize.co/index.php/Physics) |
+[Strong](http://rzwiki.synergize.co/index.php/Physics)
+|[Weak](http://rzwiki.synergize.co/index.php/Physics)
 
-[http://rzwiki.synergize.co/index.php/Physics Forces] - [http://rzwiki.synergize.co/index.php/Physics Magnetic] | [http://rzwiki.synergize.co/index.php/Physics Electro Magnetic] | [http://rzwiki.synergize.co/index.php/Physics Strong] |[http://rzwiki.synergize.co/index.php/Physics Weak]
+### [Gravity](http://rzwiki.synergize.co/index.php/Physics)
 
-===[http://rzwiki.synergize.co/index.php/Physics Gravity]===
+### [Radioactive decay](http://rzwiki.synergize.co/index.php/Physics)
 
-===[http://rzwiki.synergize.co/index.php/Physics Radioactive decay]===
+### General Theory of Relativity (Standard model)
 
-===General Theory of Relativity (Standard model)===
+#### [Time-Space](http://rzwiki.synergize.co/index.php/Physics)
 
-====[http://rzwiki.synergize.co/index.php/Physics Time-Space]====
+#### [Dilation](http://rzwiki.synergize.co/index.php/PhysicsTime)
 
-====[http://rzwiki.synergize.co/index.php/PhysicsTime Dilation]====
+#### [Event horizon](http://rzwiki.synergize.co/index.php/Physics)
 
-====[http://rzwiki.synergize.co/index.php/Physics Event horizon]====
+#### [Hilbert space](http://rzwiki.synergize.co/index.php/Physics)
 
-====[http://rzwiki.synergize.co/index.php/Physics Hilbert space]====
+## Quantum Theory
 
-==Quantum Theory==
+[What is Quantum
+Physics?](http://rzwiki.synergize.co/index.php/Quantum_Theory)
 
-[http://rzwiki.synergize.co/index.php/Quantum_Theory What is Quantum Physics?]
+[Magnetic dipole
+moments](http://rzwiki.synergize.co/index.php/Quantum_Theory)
 
-[http://rzwiki.synergize.co/index.php/Quantum_Theory Magnetic dipole moments]
+[Strange Stars](http://rzwiki.synergize.co/index.php/Quantum_Theory)
 
-[http://rzwiki.synergize.co/index.php/Quantum_Theory Strange Stars]
+[The Invisible
+Reality](http://rzwiki.synergize.co/index.php/Quantum_Theory)
 
-[http://rzwiki.synergize.co/index.php/Quantum_Theory The Invisible Reality]
+[Predictive Power of
+Symmetry](http://rzwiki.synergize.co/index.php/Quantum_Theory)
 
-[http://rzwiki.synergize.co/index.php/Quantum_Theory Predictive Power of Symmetry]
+[Heisenberg uncertainty
+principle](http://rzwiki.synergize.co/index.php/Quantum_Theory)
 
-[http://rzwiki.synergize.co/index.php/Quantum_Theory Heisenberg uncertainty principle]
+[John Preskil Yale 2016 - Holographic Quantum
+Codes](http://rzwiki.synergize.co/index.php/Quantum_Theory)
 
-[http://rzwiki.synergize.co/index.php/Quantum_Theory John Preskil Yale 2016 - Holographic Quantum Codes]
+### Quantum Physics
 
-===Quantum Physics  ===
+[Quantum field
+theory](http://rzwiki.synergize.co/index.php/Quantum_Theory)
 
-[http://rzwiki.synergize.co/index.php/Quantum_Theory Quantum field theory]
+[Quantum Fields](http://rzwiki.synergize.co/index.php/Quantum_Theory)
 
-[http://rzwiki.synergize.co/index.php/Quantum_Theory Quantum Fields]
+[Higgs-Boson](http://rzwiki.synergize.co/index.php/Quantum_Theory)|[Travel
+Velocity](http://rzwiki.synergize.co/index.php/Quantum_Theory)
 
-[http://rzwiki.synergize.co/index.php/Quantum_Theory Higgs-Boson]|[http://rzwiki.synergize.co/index.php/Quantum_Theory Travel Velocity]
+### Quantum Mechanics
 
-===Quantum Mechanics===
+[Quantum Mechanics
+explained](https://en.m.wikipedia.org/wiki/Quantum_mechanics)
 
-[https://en.m.wikipedia.org/wiki/Quantum_mechanics Quantum Mechanics explained]
+[Feynman diagram](https://en.m.wikipedia.org/wiki/Quantum_mechanics)
 
-[https://en.m.wikipedia.org/wiki/Quantum_mechanics Feynman diagram]       
+### Quantum Thermodynamics
 
-===Quantum Thermodynamics   ===
-
-[http://rzwiki.synergize.co/index.php/Quantum_Theory Quantum Computing]
+[Quantum Computing](http://rzwiki.synergize.co/index.php/Quantum_Theory)
 
 Quantum Entanglement
 
@@ -267,285 +226,345 @@ Quantum Tunneling
 
 Quantum Gate - Qubit Manipulation
 
-===[http://rzwiki.synergize.co/index.php/Quantum_TheoryUnobserved particles]===
+### [particles](http://rzwiki.synergize.co/index.php/Quantum_TheoryUnobserved)
 
-[https://en.m.wikipedia.org/wiki/Graviton Graviton]
+[Graviton](https://en.m.wikipedia.org/wiki/Graviton)
 
 Tachyon
 
 Axion
 
-[http://rzwiki.synergize.co/index.php/Quantum_Theory Exotic Quarks]
+[Exotic Quarks](http://rzwiki.synergize.co/index.php/Quantum_Theory)
 
-===Quantum Economics===
+### Quantum Economics
 
-[http://rzwiki.synergize.co/index.php/Quantum_Theory Quantum Economics] |[http://rzwiki.synergize.co/index.php/Quantum_TheoryTheory] | [http://rzwiki.synergize.co/index.php/Quantum_Theory Law of attraction]
+[Quantum Economics](http://rzwiki.synergize.co/index.php/Quantum_Theory)
+|[2](http://rzwiki.synergize.co/index.php/Quantum_TheoryTheory) | [Law
+of attraction](http://rzwiki.synergize.co/index.php/Quantum_Theory)
 
-[http://rzwiki.synergize.co/index.php/Quantum_Theory Quantum Finance]
+[Quantum Finance](http://rzwiki.synergize.co/index.php/Quantum_Theory)
 
-[http://rzwiki.synergize.co/index.php/Quantum_TheoryQuantum Social Science]
+[Social
+Science](http://rzwiki.synergize.co/index.php/Quantum_TheoryQuantum)
 
-[http://rzwiki.synergize.co/index.php/Quantum_Theory Quantum Decision Theory]
+[Quantum Decision
+Theory](http://rzwiki.synergize.co/index.php/Quantum_Theory)
 
-===[http://rzwiki.synergize.co/index.php/Quantum_Theory Quantum Biology]===
+### [Quantum Biology](http://rzwiki.synergize.co/index.php/Quantum_Theory)
 
--
--
--
--
-- 
- 
-==Math==
+\- - - - -
 
-===Geometry===
+## Math
 
-[http://rzwiki.synergize.co/index.php/Math Nikola Tesla Pyramids]
+### Geometry
 
-[http://rzwiki.synergize.co/index.php/Math Higher Dimensions]
+[Nikola Tesla Pyramids](http://rzwiki.synergize.co/index.php/Math)
 
-[http://rzwiki.synergize.co/index.php/Math Imagine 10D]
+[Higher Dimensions](http://rzwiki.synergize.co/index.php/Math)
 
-===Golden ratio Fibonacci  ===
+[Imagine 10D](http://rzwiki.synergize.co/index.php/Math)
 
-[http://rzwiki.synergize.co/index.php/Math Numberphile 2018]
+### Golden ratio Fibonacci
+
+[Numberphile 2018](http://rzwiki.synergize.co/index.php/Math)
 
 Nature
 
 Earth-Moon Triangle
 
-===Complex numbers graph===
+### Complex numbers graph
 
-[http://rzwiki.synergize.co/index.php/Math Riemann Theory]
+[Riemann Theory](http://rzwiki.synergize.co/index.php/Math)
 
-[http://rzwiki.synergize.co/index.php/Math Riemann hypothesis]
+[Riemann hypothesis](http://rzwiki.synergize.co/index.php/Math)
 
-[http://rzwiki.synergize.co/index.php/Math Infinity Paradox]
+[Infinity Paradox](http://rzwiki.synergize.co/index.php/Math)
 
-Hilbert’s Paradox |[http://rzwiki.synergize.co/index.php/Math Hilbert space]
+Hilbert’s Paradox |[Hilbert
+space](http://rzwiki.synergize.co/index.php/Math)
 
 Hyper-Webster a-z8
 
-===Irrational numbers===
+### Irrational numbers
 
-[http://rzwiki.synergize.co/index.php/Math Division by zero (Limit8)]
+[Division by zero (Limit8)](http://rzwiki.synergize.co/index.php/Math)
 
-[http://rzwiki.synergize.co/index.php/Math Problems with zero]
+[Problems with zero](http://rzwiki.synergize.co/index.php/Math)
 
-===[http://rzwiki.synergize.co/index.php/Math Convergence]===
+### [Convergence](http://rzwiki.synergize.co/index.php/Math)
 
 The square root of a negative number
 
-==Chemistry==
+## Chemistry
 
-===[http://rzwiki.synergize.co/index.php/Chemistry Periodic table Elements]===
+### [Periodic table Elements](http://rzwiki.synergize.co/index.php/Chemistry)
 
-===[http://rzwiki.synergize.co/index.php/Chemistry Chemical reactions]===
+### [Chemical reactions](http://rzwiki.synergize.co/index.php/Chemistry)
 
-===[http://rzwiki.synergize.co/index.php/Chemistry Crystal (structures / patterns)]===
+### [Crystal (structures / patterns)](http://rzwiki.synergize.co/index.php/Chemistry)
 
-==Biology==
+## Biology
 
-===Astrobiology Theory=== 
-[http://rzwiki.synergize.co/index.php/Biology How life begins] |[http://rzwiki.synergize.co/index.php/Biology terrestrial Protein discovery]
+### Astrobiology Theory
 
-===Tomonori Totani Tokyo University 2020 - [http://rzwiki.synergize.co/index.php/Biology Is life a game of chance]===
+[How life begins](http://rzwiki.synergize.co/index.php/Biology)
+|[terrestrial Protein
+discovery](http://rzwiki.synergize.co/index.php/Biology)
 
-===Daniel M.Abrams TEDed -[http://rzwiki.synergize.co/index.php/Biology selection]===
+### Tomonori Totani Tokyo University 2020 - [Is life a game of chance](http://rzwiki.synergize.co/index.php/Biology)
 
-===[http://rzwiki.synergize.co/index.php/Biology Eyes]===
+### Daniel M.Abrams TEDed -[selection](http://rzwiki.synergize.co/index.php/Biology)
 
-Ears    
+### [Eyes](http://rzwiki.synergize.co/index.php/Biology)
+
+Ears
 
 Mammals
 
 Insects
 
-Microscopic entities 
+Microscopic entities
 
 Physic-
 
-===Nutrition=== 
-[http://rzwiki.synergize.co/index.php/Biology Healthy nutrition] |[http://rzwiki.synergize.co/index.php/Biology Rice Brain oil (Gamma Oryzanol)]
+### Nutrition
 
-===Hormones===  
-[http://rzwiki.synergize.co/index.php/Biology  HGH] | [http://rzwiki.synergize.co/index.php/Biology HGH Levels] | [http://rzwiki.synergize.co/index.php/Biology Hourly Emotions]
+[Healthy nutrition](http://rzwiki.synergize.co/index.php/Biology) |[Rice
+Brain oil (Gamma
+Oryzanol)](http://rzwiki.synergize.co/index.php/Biology)
 
-[http://rzwiki.synergize.co/index.php/Biology Hormonal Balance]
+### Hormones
 
-===Cells===
+[HGH](http://rzwiki.synergize.co/index.php/Biology) | [HGH
+Levels](http://rzwiki.synergize.co/index.php/Biology) | [Hourly
+Emotions](http://rzwiki.synergize.co/index.php/Biology)
 
-[http://rzwiki.synergize.co/index.php/BiologyCancer Peto’s Paradox]
+[Hormonal Balance](http://rzwiki.synergize.co/index.php/Biology)
+
+### Cells
+
+[Peto’s Paradox](http://rzwiki.synergize.co/index.php/BiologyCancer)
 
 Brain development
 
 DNA-RNA
 
-==Astronomy==
+## Astronomy
 
-===[http://rzwiki.synergize.co/index.php/Astronomy Observable Universe]===
+### [Observable Universe](http://rzwiki.synergize.co/index.php/Astronomy)
 
-===[http://rzwiki.synergize.co/index.php/Astronomy Edge of an infinite universe]===
+### [Edge of an infinite universe](http://rzwiki.synergize.co/index.php/Astronomy)
 
-New perspectives on our place in the universe -[http://rzwiki.synergize.co/index.php/Astronomy The Nobel Prize in Physics, James Peebles 2019 ]
+New perspectives on our place in the universe -[The Nobel Prize in
+Physics, James
+Peebles 2019](http://rzwiki.synergize.co/index.php/Astronomy)
 
-===[http://rzwiki.synergize.co/index.php/Astronomy Black Hole Information paradox]===
+### [Black Hole Information paradox](http://rzwiki.synergize.co/index.php/Astronomy)
 
-===[http://rzwiki.synergize.co/index.php/Astronomy Blackhole Holographic Principle]===
+### [Blackhole Holographic Principle](http://rzwiki.synergize.co/index.php/Astronomy)
 
-[http://rzwiki.synergize.co/index.php/Astronomy Leonard Susskind on The World As Hologram]                 
+[Leonard Susskind on The World As
+Hologram](http://rzwiki.synergize.co/index.php/Astronomy)
 
-[http://rzwiki.synergize.co/index.php/Astronomy Cosmological Natural selection]
+[Cosmological Natural
+selection](http://rzwiki.synergize.co/index.php/Astronomy)
 
-===[http://rzwiki.synergize.co/index.php/Astronomy Google Sky]===
+### [Google Sky](http://rzwiki.synergize.co/index.php/Astronomy)
 
-[http://rzwiki.synergize.co/index.php/Astronomy Expansion]
+[Expansion](http://rzwiki.synergize.co/index.php/Astronomy)
 
-===Solar System===
+### Solar System
 
-Galaxy - [http://rzwiki.synergize.co/index.php/Astronomy The Milky way]
+Galaxy - [The Milky way](http://rzwiki.synergize.co/index.php/Astronomy)
 
 Local Group
-           
-==Anthropology==
 
-===Time===
-[http://rzwiki.synergize.co/index.php/Anthropology History and Future]
+## Anthropology
 
-[http://rzwiki.synergize.co/index.php/Anthropology Fermi Paradox]
+### Time
 
-[http://rzwiki.synergize.co/index.php/Anthropology Great Filters]
+[History and Future](http://rzwiki.synergize.co/index.php/Anthropology)
 
-[http://rzwiki.synergize.co/index.php/Anthropology Kardashev Scale Civilization Types]
+[Fermi Paradox](http://rzwiki.synergize.co/index.php/Anthropology)
 
-===[http://rzwiki.synergize.co/index.php/Anthropology Type I Civilization Humanity at 2100 (Harnessing all of the Planet Energy)]===
+[Great Filters](http://rzwiki.synergize.co/index.php/Anthropology)
 
-===[http://rzwiki.synergize.co/index.php/Anthropology Type II Civilization (Harnessing all of the Star (Sun) Energy)]===
+[Kardashev Scale Civilization
+Types](http://rzwiki.synergize.co/index.php/Anthropology)
 
-[http://rzwiki.synergize.co/index.php/Anthropology Dyson sphere]
+### [Type I Civilization Humanity at 2100 (Harnessing all of the Planet Energy)](http://rzwiki.synergize.co/index.php/Anthropology)
 
-[http://rzwiki.synergize.co/index.php/Anthropology Matrioshka Brain]
+### [Type II Civilization (Harnessing all of the Star (Sun) Energy)](http://rzwiki.synergize.co/index.php/Anthropology)
 
-[http://rzwiki.synergize.co/index.php/Anthropology Stellar Engine]
+[Dyson sphere](http://rzwiki.synergize.co/index.php/Anthropology)
 
-===[http://rzwiki.synergize.co/index.php/Anthropology Type III Civilization (Harnessing all of the Galaxy Energy)]===
+[Matrioshka Brain](http://rzwiki.synergize.co/index.php/Anthropology)
 
-===[http://rzwiki.synergize.co/index.php/Anthropology Type IV Civilization]===
+[Stellar Engine](http://rzwiki.synergize.co/index.php/Anthropology)
 
-===[http://rzwiki.synergize.co/index.php/Anthropology Type V Civilization]===
+### [Type III Civilization (Harnessing all of the Galaxy Energy)](http://rzwiki.synergize.co/index.php/Anthropology)
 
-==The Human Brain==
- 
-===[http://rzwiki.synergize.co/index.php/The_Human_Brain Human Brain Anatomy]===
+### [Type IV Civilization](http://rzwiki.synergize.co/index.php/Anthropology)
 
-Khan Academy – [http://rzwiki.synergize.co/index.php/The_Human_Brain Advanced nervous system physiology]
+### [Type V Civilization](http://rzwiki.synergize.co/index.php/Anthropology)
 
-===The Human Nervous system===
+## The Human Brain
 
-[http://rzwiki.synergize.co/index.php/The_Human_Brain Nervous system ]|[http://rzwiki.synergize.co/index.php/The_Human_Brain Neurons Neurons ]|[http://rzwiki.synergize.co/index.php/The_Human_Brain Anatomy of a neuron] | [http://rzwiki.synergize.co/index.php/The_Human_Brain Saltatory conduction] |[http://rzwiki.synergize.co/index.php/The_Human_Brain Action Potential]
+### [Human Brain Anatomy](http://rzwiki.synergize.co/index.php/The_Human_Brain)
 
-Scientific American 2010 - [http://rzwiki.synergize.co/index.php/The_Human_Brain Neural Feedback]
+Khan Academy – [Advanced nervous system
+physiology](http://rzwiki.synergize.co/index.php/The_Human_Brain)
 
-[http://rzwiki.synergize.co/index.php/The_Human_Brain Neurotransmitters]
+### The Human Nervous system
 
-===Dopamine===
+[Nervous
+system](http://rzwiki.synergize.co/index.php/The_Human_Brain)|[Neurons
+Neurons](http://rzwiki.synergize.co/index.php/The_Human_Brain)|[Anatomy
+of a neuron](http://rzwiki.synergize.co/index.php/The_Human_Brain) |
+[Saltatory
+conduction](http://rzwiki.synergize.co/index.php/The_Human_Brain)
+|[Action
+Potential](http://rzwiki.synergize.co/index.php/The_Human_Brain)
 
-Dopamine:[http://rzwiki.synergize.co/index.php/The_Human_Brain The Molecule of Addiction]
+Scientific American 2010 - [Neural
+Feedback](http://rzwiki.synergize.co/index.php/The_Human_Brain)
 
-Dopamine detox - [http://rzwiki.synergize.co/index.php/The_Human_Brain Make your Brain Like Doing Hard Things]
+[Neurotransmitters](http://rzwiki.synergize.co/index.php/The_Human_Brain)
 
-Serotonin –[http://rzwiki.synergize.co/index.php/The_Human_Brain How to Raise Serotonin Levels ]
+### Dopamine
 
-Mirror Neurons -[http://rzwiki.synergize.co/index.php/The_Human_Brain Social Neural Synchronization ]| [http://rzwiki.synergize.co/index.php/The_Human_Brain MIT Brain Wave Sync]
+Dopamine:[The Molecule of
+Addiction](http://rzwiki.synergize.co/index.php/The_Human_Brain)
 
-===Brain Dominance Theory===
-[http://rzwiki.synergize.co/index.php/The_Human_Brain Lateralization of Brain Functions]
+Dopamine detox - [Make your Brain Like Doing Hard
+Things](http://rzwiki.synergize.co/index.php/The_Human_Brain)
 
-Hemispheres - TEDxHartford 2017 -[http://rzwiki.synergize.co/index.php/The_Human_Brain Left Vs Right-handed (Brained)]
+Serotonin –[How to Raise Serotonin
+Levels](http://rzwiki.synergize.co/index.php/The_Human_Brain)
 
-[http://rzwiki.synergize.co/index.php/The_Human_Brain Quantum Physics and the Brain] |[http://rzwiki.synergize.co/index.php/The_Human_Brain Mind-Brain interactions using Bohmian quantum mechanics]
+Mirror Neurons -[Social Neural
+Synchronization](http://rzwiki.synergize.co/index.php/The_Human_Brain)|
+[MIT Brain Wave
+Sync](http://rzwiki.synergize.co/index.php/The_Human_Brain)
 
-===Homeostasis===
+### Brain Dominance Theory
 
-[http://rzwiki.synergize.co/index.php/The_Human_Brain Mental Ambidexterity]
+[Lateralization of Brain
+Functions](http://rzwiki.synergize.co/index.php/The_Human_Brain)
+
+Hemispheres - TEDxHartford 2017 -[Left Vs Right-handed
+(Brained)](http://rzwiki.synergize.co/index.php/The_Human_Brain)
+
+[Quantum Physics and the
+Brain](http://rzwiki.synergize.co/index.php/The_Human_Brain)
+|[Mind-Brain interactions using Bohmian quantum
+mechanics](http://rzwiki.synergize.co/index.php/The_Human_Brain)
+
+### Homeostasis
+
+[Mental
+Ambidexterity](http://rzwiki.synergize.co/index.php/The_Human_Brain)
 
 Penal gland and lubes
 
-[http://rzwiki.synergize.co/index.php/The_Human_Brain Midbrain Activation]            
+[Midbrain
+Activation](http://rzwiki.synergize.co/index.php/The_Human_Brain)
 
-[http://rzwiki.synergize.co/index.php/The_Human_Brain Pineal Gland]
+[Pineal Gland](http://rzwiki.synergize.co/index.php/The_Human_Brain)
 
-===Brain Waves EEG===
+### Brain Waves EEG
 
-·[https://neurofeedbackalliance.org/understanding-brain-waves/         NeuroFeedback]
+·[NeuroFeedback](https://neurofeedbackalliance.org/understanding-brain-waves/)
 
-· [https://www.funderstanding.com/brain/brain-biology-a-negative-feedback-loop-system/        Negative Feedback loop system]
+· [Negative Feedback loop
+system](https://www.funderstanding.com/brain/brain-biology-a-negative-feedback-loop-system/)
 
-· [https://en.wikipedia.org/wiki/Delta_wave        Delta wave – (0.1 – 3 Hz)]
+· [Delta wave – (0.1 – 3 Hz)](https://en.wikipedia.org/wiki/Delta_wave)
 
 · Theta wave – (4 – 7 Hz)
 
-·  [https://en.wikipedia.org/wiki/Alpha_wave       Alpha wave – (8 – 15 Hz)]
+· [Alpha wave – (8 – 15 Hz)](https://en.wikipedia.org/wiki/Alpha_wave)
 
-· [https://en.wikipedia.org/wiki/Mu_wave        Mu wave – (7.5 – 12.5 Hz)]
+· [Mu wave – (7.5 – 12.5 Hz)](https://en.wikipedia.org/wiki/Mu_wave)
 
-· [https://en.wikipedia.org/wiki/Sensorimotor_rhythm        SMR wave – (12.5 – 15.5 Hz)]
+· [SMR wave – (12.5 – 15.5
+Hz)](https://en.wikipedia.org/wiki/Sensorimotor_rhythm)
 
-·  [https://en.wikipedia.org/wiki/Beta_wave       Beta wave – (16 – 31 Hz)]
+· [Beta wave – (16 – 31 Hz)](https://en.wikipedia.org/wiki/Beta_wave)
 
-· [https://en.wikipedia.org/wiki/Gamma_wave        Gamma wave – (32 – 100 Hz)]
+· [Gamma wave – (32 – 100 Hz)](https://en.wikipedia.org/wiki/Gamma_wave)
 
-===Emotions and Energy Waves===
+### Emotions and Energy Waves
 
-[http://rzwiki.synergize.co/index.php/The_Human_Brain Emotion Mastery]
+[Emotion Mastery](http://rzwiki.synergize.co/index.php/The_Human_Brain)
 
-[http://rzwiki.synergize.co/index.php/The_Human_Brain Emotion Frequencies]
+[Emotion
+Frequencies](http://rzwiki.synergize.co/index.php/The_Human_Brain)
 
-===Intelligence===
+### Intelligence
 
-General Intelligence – [http://rzwiki.synergize.co/index.php/The_Human_Brain The G Factor]
+General Intelligence – [The G
+Factor](http://rzwiki.synergize.co/index.php/The_Human_Brain)
 
-[http://rzwiki.synergize.co/index.php/The_Human_Brain Howard Gardner’s Multiple Intelligences Theory] | [http://rzwiki.synergize.co/index.php/The_Human_Brain MIT Explained]
+[Howard Gardner’s Multiple Intelligences
+Theory](http://rzwiki.synergize.co/index.php/The_Human_Brain) | [MIT
+Explained](http://rzwiki.synergize.co/index.php/The_Human_Brain)
 
+## Consciousness
 
-==Consciousness==
+[Neural correlates of
+consciousness](http://rzwiki.synergize.co/index.php/Consciousness)
 
-[http://rzwiki.synergize.co/index.php/Consciousness Neural correlates of consciousness]
+[The HARD problem of
+consciousness](http://rzwiki.synergize.co/index.php/Consciousness)
 
-[http://rzwiki.synergize.co/index.php/Consciousness The HARD problem of consciousness]
+[Integrated Information
+Theory](http://rzwiki.synergize.co/index.php/Consciousness)
 
-[http://rzwiki.synergize.co/index.php/Consciousness Integrated Information Theory]
+Rocco J. Gennaro, University of Southern Indiana -[Philosophical
+Definition of
+consciousness](http://rzwiki.synergize.co/index.php/Consciousness)
 
-Rocco J. Gennaro, University of Southern Indiana -[http://rzwiki.synergize.co/index.php/Consciousness Philosophical Definition of consciousness]
+Max Tegmark TEDxCambridge 2014 -[Consciousness is a mathematical
+pattern](http://rzwiki.synergize.co/index.php/Consciousness)
 
-Max Tegmark TEDxCambridge 2014 -[http://rzwiki.synergize.co/index.php/Consciousness Consciousness is a mathematical pattern]
+George Smoot at TEDxSalford 2014 -[You are a Simulation & Physics Can
+Prove It](http://rzwiki.synergize.co/index.php/Consciousness)
 
-George Smoot at TEDxSalford 2014 -[http://rzwiki.synergize.co/index.php/Consciousness You are a Simulation & Physics Can Prove It]
+Donald Hoffman 2014 -[Entangling Conscious Agents, Donald
+Hoffman](http://rzwiki.synergize.co/index.php/Consciousness)
 
-Donald Hoffman 2014 -[http://rzwiki.synergize.co/index.php/Consciousness Entangling Conscious Agents, Donald Hoffman]
+Anil Seth 2017 -[Neuroscience of
+Consciousness](http://rzwiki.synergize.co/index.php/Consciousness)
 
-Anil Seth 2017 -[http://rzwiki.synergize.co/index.php/Consciousness Neuroscience of Consciousness]
+Donald Hoffman 2015 -[Do we see reality as it
+is](http://rzwiki.synergize.co/index.php/Consciousness)
 
-Donald Hoffman 2015 -[http://rzwiki.synergize.co/index.php/Consciousness Do we see reality as it is]
+World Gestalt -[Simulation
+argument](http://rzwiki.synergize.co/index.php/ConsciousnessThe) |[Are
+you in a simulation](http://rzwiki.synergize.co/index.php/Consciousness)
 
-World Gestalt -[http://rzwiki.synergize.co/index.php/ConsciousnessThe Simulation argument] |[http://rzwiki.synergize.co/index.php/Consciousness Are you in a simulation]
+Awareness cognitive bias –[Dunning-Kruger
+effect](http://rzwiki.synergize.co/index.php/Consciousness)
 
-Awareness cognitive bias –[http://rzwiki.synergize.co/index.php/Consciousness Dunning-Kruger effect]
+TED-Ed 2017 -[Body over Mind or Mind over
+Body](http://rzwiki.synergize.co/index.php/Consciousness)
 
-TED-Ed 2017 -[http://rzwiki.synergize.co/index.php/Consciousness Body over Mind or Mind over Body]
+Yoav Ben-Dov 2016 -[Quantum and
+Consciousness](http://rzwiki.synergize.co/index.php/Consciousness)
 
-Yoav Ben-Dov 2016 -[http://rzwiki.synergize.co/index.php/Consciousness Quantum and Consciousness]
+### Philosophical ideas
 
-===Philosophical ideas===
+#### [Mind-Body Problem](http://rzwiki.synergize.co/index.php/Consciousness)
 
-====[http://rzwiki.synergize.co/index.php/Consciousness Mind-Body Problem]====
+#### [Solipsism](http://rzwiki.synergize.co/index.php/Consciousness)
 
-====[http://rzwiki.synergize.co/index.php/Consciousness Solipsism]====
+#### [Optimistic Nihilism](http://rzwiki.synergize.co/index.php/Consciousness)
 
-====[http://rzwiki.synergize.co/index.php/Consciousness Optimistic Nihilism]====
+### [Sensual Perception](http://rzwiki.synergize.co/index.php/Consciousness)
 
-===[http://rzwiki.synergize.co/index.php/Consciousness Sensual Perception]===
-
-[http://rzwiki.synergize.co/index.php/Consciousness From unaware to aware beings]
+[From unaware to aware
+beings](http://rzwiki.synergize.co/index.php/Consciousness)
 
 Vision
 
@@ -559,90 +578,112 @@ Touch
 
 Feel
 
-===Time perception===
+### Time perception
 
-Being in the now Vs Acting in the now (Cnow >= Cnow+1 VS Cnow < Cnow+1)
+Being in the now Vs Acting in the now (Cnow \>= Cnow+1 VS Cnow \<
+Cnow+1)
 
 Information | Energy
 
-==DNA Binaries==
+## DNA Binaries
 
-===Maya Mechanics===
+### Maya Mechanics
 
-Maya Holographic Universe - [http://rzwiki.synergize.co/index.php/DNA_Binaries Alexander Evgenievich TED 2018]
+Maya Holographic Universe - [Alexander Evgenievich
+TED 2018](http://rzwiki.synergize.co/index.php/DNA_Binaries)
 
-[http://rzwiki.synergize.co/index.php/DNA_Binaries Mayan Calendar explained]
+[Mayan Calendar
+explained](http://rzwiki.synergize.co/index.php/DNA_Binaries)
 
-===Chinese l-Ching===
+### Chinese l-Ching
 
 Keynotes
 
-==Concentration & Focus==
+## Concentration & Focus
 
-[http://rzwiki.synergize.co/index.php/Concentration_%26_Focus Attention Control]
+[Attention
+Control](http://rzwiki.synergize.co/index.php/Concentration_%26_Focus)
 
-[http://rzwiki.synergize.co/index.php/Concentration_%26_Focus Samadhi Buddhism]
+[Samadhi
+Buddhism](http://rzwiki.synergize.co/index.php/Concentration_%26_Focus)
 
-[http://rzwiki.synergize.co/index.php/Concentration_%26_Focus The Art of Focus] |[http://rzwiki.synergize.co/index.php/Concentration_%26_Focus The Power of Focus]
+[The Art of
+Focus](http://rzwiki.synergize.co/index.php/Concentration_%26_Focus)
+|[The Power of
+Focus](http://rzwiki.synergize.co/index.php/Concentration_%26_Focus)
 
-TEDx 2016 -[http://rzwiki.synergize.co/index.php/Concentration_%26_Focus Unwavering Focus]
+TEDx 2016 -[Unwavering
+Focus](http://rzwiki.synergize.co/index.php/Concentration_%26_Focus)
 
-Focus Muscle Practice –[http://rzwiki.synergize.co/index.php/Concentration_%26_Focus Focus on NOTHING (meditate)]
+Focus Muscle Practice –[Focus on NOTHING
+(meditate)](http://rzwiki.synergize.co/index.php/Concentration_%26_Focus)
 
-===Communications===
+### Communications
 
-Stanford Business -[http://rzwiki.synergize.co/index.php/Concentration_%26_Focus Think Fast, Talk Smart: Communication Techniques]
+Stanford Business -[Think Fast, Talk Smart: Communication
+Techniques](http://rzwiki.synergize.co/index.php/Concentration_%26_Focus)
 
-[http://rzwiki.synergize.co/index.php/Concentration_%26_Focus Mirroring Voice and body language]
+[Mirroring Voice and body
+language](http://rzwiki.synergize.co/index.php/Concentration_%26_Focus)
 
-===Language - Symbols===
+### Language - Symbols
 
-[http://rzwiki.synergize.co/index.php/Concentration_%26_Focus Sound Pressure - Hertz, Cent, and Decibel] | Voice Tone, pitch, Amplitude
+[Sound Pressure - Hertz, Cent, and
+Decibel](http://rzwiki.synergize.co/index.php/Concentration_%26_Focus) |
+Voice Tone, pitch, Amplitude
 
 Response, Invite
 
-===Visual===
+### Visual
 
 Illusions, Deceptions
 
-[http://rzwiki.synergize.co/index.php/Concentration_%26_Focus Donald Hoffman 2019]
+[Donald
+Hoffman 2019](http://rzwiki.synergize.co/index.php/Concentration_%26_Focus)
 
-===Mental===
+### Mental
 
 Electromagnetic
 
 Nonverbal – Physical
 
-[http://rzwiki.synergize.co/index.php/Concentration_%26_Focus The Power of Nonverbal Communications]
+[The Power of Nonverbal
+Communications](http://rzwiki.synergize.co/index.php/Concentration_%26_Focus)
 
-===Body language===
+### Body language
 
-[http://rzwiki.synergize.co/index.php/Concentration_%26_Focus Reading Body Language]
+[Reading Body
+Language](http://rzwiki.synergize.co/index.php/Concentration_%26_Focus)
 
-[http://rzwiki.synergize.co/index.php/Concentration_%26_Focus How to Spot a Lie]
+[How to Spot a
+Lie](http://rzwiki.synergize.co/index.php/Concentration_%26_Focus)
 
-===Microexpressions===
+### Microexpressions
 
 Direction
 
-==Interactions==
+## Interactions
 
-===Manifestation===
-[http://rzwiki.synergize.co/index.php/Interactions Understanding the Vibrational Mechanics of Manifestation]===
+### Manifestation
 
-[http://rzwiki.synergize.co/index.php/Interactions Hard or Easy]
+[Understanding the Vibrational Mechanics of
+Manifestation](http://rzwiki.synergize.co/index.php/Interactions)===
+
+[Hard or Easy](http://rzwiki.synergize.co/index.php/Interactions)
 
 Friend or Foe
 
 Solar Predictions
 
-===Inner Behavior===
+### Inner Behavior
 
 Tolerance-Restraint-Vital-Observation-Agility
 
 DNRBEC
 
-Memory –[http://rzwiki.synergize.co/index.php/Interactions How to remember everything you learn] |[http://rzwiki.synergize.co/index.php/Interactions Memory and Time]
+Memory –[How to remember everything you
+learn](http://rzwiki.synergize.co/index.php/Interactions) |[Memory and
+Time](http://rzwiki.synergize.co/index.php/Interactions)
 
 Model R1
 
@@ -656,17 +697,20 @@ Non-aggression
 
 Forgiveness
 
-==Based on the work of:==
+## Based on the work of:
 
-[http://rzwiki.synergize.co/index.php/Based_on_the_work_of Nima Arkani-Hamed]
+[Nima
+Arkani-Hamed](http://rzwiki.synergize.co/index.php/Based_on_the_work_of)
 
 Nikola Tesla
 
-[http://rzwiki.synergize.co/index.php/Based_on_the_work_of Einstein – Hebrew]
+[Einstein –
+Hebrew](http://rzwiki.synergize.co/index.php/Based_on_the_work_of)
 
 Albert Hoffman
 
-[http://rzwiki.synergize.co/index.php/Based_on_the_work_of Galileo Galilee]
+[Galileo
+Galilee](http://rzwiki.synergize.co/index.php/Based_on_the_work_of)
 
 Copernicus
 
@@ -680,7 +724,7 @@ Richard Feynman
 
 Enrico Fermi
 
-[http://rzwiki.synergize.co/index.php/Based_on_the_work_of Max Planck]
+[Max Planck](http://rzwiki.synergize.co/index.php/Based_on_the_work_of)
 
 Werner Heisenberg
 
@@ -706,10 +750,10 @@ Fibonacci
 
 Charles Darwin
 
-===[http://rzwiki.synergize.co/index.php/Based_on_the_work_of John Forbes Nash 1928-2015 USA]-[http://rzwiki.synergize.co/index.php/Based_on_the_work_of Nash Equilibrium]===
+### [John Forbes Nash 1928-2015 USA](http://rzwiki.synergize.co/index.php/Based_on_the_work_of)-[Nash Equilibrium](http://rzwiki.synergize.co/index.php/Based_on_the_work_of)
 
-===[http://rzwiki.synergize.co/index.php/Based_on_the_work_of David Hilbert 1862-1943, Germany]– [http://rzwiki.synergize.co/index.php/Based_on_the_work_of Hilbert’s math problems]===
+### [David Hilbert 1862-1943, Germany](http://rzwiki.synergize.co/index.php/Based_on_the_work_of)– [Hilbert’s math problems](http://rzwiki.synergize.co/index.php/Based_on_the_work_of)
 
-===[http://rzwiki.synergize.co/index.php/Based_on_the_work_of Harry (Hillel) Furstenberg 1935 Germany, Israel] -[http://rzwiki.synergize.co/index.php/Based_on_the_work_of Infinitude of Primes ]===
+### [Harry (Hillel) Furstenberg 1935 Germany, Israel](http://rzwiki.synergize.co/index.php/Based_on_the_work_of) -[Infinitude of Primes](http://rzwiki.synergize.co/index.php/Based_on_the_work_of)
 
-===[http://rzwiki.synergize.co/index.php/Based_on_the_work_of Roger Wolcott Sperry 1913-1994 USA - functional specialization of the cerebral hemispheres]===
+### [Roger Wolcott Sperry 1913-1994 USA - functional specialization of the cerebral hemispheres](http://rzwiki.synergize.co/index.php/Based_on_the_work_of)
