@@ -1,5 +1,16 @@
 # Based on the work of:
 
+# Content
+
+- John Forbes Nash 1928-2015 USA-Nash Equilibrium
+
+- David Hilbert 1862-1943, Germany– Hilbert’s math problems
+
+- Harry (Hillel) Furstenberg 1935 Germany, Israel -Infinitude of Primes
+
+- Roger Wolcott Sperry 1913-1994 USA - functional specialization of the cerebral hemispheres
+
+
 [Nima Arkani-Hamed](https://en.wikipedia.org/wiki/Nima_Arkani-Hamed)
 
 Nikola Tesla
