@@ -16,8 +16,6 @@
 
 - Quantum Biology
 
-- Quantum Theory
-
 ## Quantum Theory
 
 [What is Quantum Physics?](https://www.youtube.com/watch?v=wZzHnZzm_58)
