@@ -1,6 +1,6 @@
-## Welcome to rzWiki - Rudyz Knowledge base
+# Contents
 
-Here you will get all the Information...
+ Welcome to rzWiki - Rudyz Knowledge base
 
 ##  Table of Contents
 
