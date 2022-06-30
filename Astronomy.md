@@ -3,6 +3,7 @@
 ## Content
 
 - Observable Universe
+
 -	Edge of an infinite universe
 
 -	Black Hole Information paradox
