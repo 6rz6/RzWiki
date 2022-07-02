@@ -1,8 +1,8 @@
-# Rudy Zakuto
+# Rudy Z.
 
 Technology R&D Team leading Specialist Co-Founder and CTO at Senno Hong kong SAR
 
-[Github](https://github.com/Rzwiki)
+[rzWiki - My knowledgebase](https://github.com/Rzwiki)
 
 ---
 
