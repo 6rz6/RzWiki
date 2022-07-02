@@ -2,7 +2,7 @@
 
 Technology R&D Team leading Specialist Co-Founder and CTO at Senno Hong kong SAR
 
-[rzWiki - My knowledgebase](https://github.com/Rzwiki)
+[rzWiki - My knowledgebase](https://github.com/6rz6/6rz6/blob/main/RzWiki.md)
 
 ---
 
