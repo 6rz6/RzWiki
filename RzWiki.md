@@ -1,6 +1,5 @@
-# Contents
-
 - [Welcome to rzWiki - Rudyz Knowledge base](https://github.com/6rz6/6rz6/blob/main/RzWiki.md)
+
 
 ##  Table of Contents
 
